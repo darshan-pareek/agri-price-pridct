@@ -1,0 +1,1484 @@
+Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date,State
+1,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,200,400,300,04-Jun-20,
+2,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,600,450,05-May-25,
+3,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,600,450,06-May-25,
+4,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,600,450,18-Jun-21,
+5,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,700,500,07-May-25,
+6,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,700,500,08-May-25,
+7,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,700,500,09-May-25,
+8,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,700,500,21-Apr-25,
+9,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,800,550,06-Mar-25,
+10,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,800,550,08-Apr-25,
+11,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,800,550,12-Jan-23,
+12,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,800,550,13-Jan-23,
+13,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,900,600,04-Mar-25,
+14,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,900,600,05-Mar-25,
+15,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,1000,650,24-Apr-25,
+16,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,1100,700,27-Jan-23,
+17,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,300,1500,900,16-Jan-25,
+18,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,500,450,07-Jun-21,
+19,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,600,500,04-May-20,
+20,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,600,500,05-May-20,
+21,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,700,550,03-Mar-20,
+22,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,700,550,13-May-25,
+23,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,700,550,25-Apr-25,
+24,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,03-Mar-21,
+25,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,04-Jan-23,
+26,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,06-Jan-23,
+27,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,10-Jan-23,
+28,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,14-May-24,
+29,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,16-May-24,
+30,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,19-Dec-22,
+31,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,21-Jun-21,
+32,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,21-May-24,
+33,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,24-Mar-25,
+34,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,25-Mar-25,
+35,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,26-Dec-22,
+36,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,600,30-Dec-22,
+37,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,800,700,12-Mar-21,
+38,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,900,650,18-Jan-21,
+39,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,900,650,20-Feb-25,
+40,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,900,650,21-Feb-25,
+41,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,900,650,25-Jan-21,
+42,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,900,650,26-Feb-21,
+43,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,05-Mar-21,
+44,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,11-Feb-25,
+45,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,12-Feb-25,
+46,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,13-Feb-25,
+47,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,14-Feb-25,
+48,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,17-Feb-25,
+49,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,22-Jan-25,
+50,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,22-May-24,
+51,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,23-Jan-25,
+52,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1000,700,23-May-24,
+53,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1100,750,19-Feb-21,
+54,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1100,750,20-Jan-25,
+55,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1100,750,30-Jan-25,
+56,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1400,900,21-Jan-20,
+57,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,400,1600,1000,17-Jan-25,
+58,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,600,550,08-Jan-25,
+59,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,600,550,09-Jan-25,
+60,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,800,650,09-Mar-21,
+61,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,800,650,14-May-25,
+62,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,800,650,15-May-25,
+63,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,800,650,16-May-25,
+64,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,800,650,20-May-24,
+65,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,900,700,06-Mar-20,
+66,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,900,700,10-Feb-25,
+67,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,900,700,13-Feb-20,
+68,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,900,700,19-Feb-25,
+69,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,900,700,29-Jan-20,
+70,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,03-Feb-20,
+71,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,04-Apr-25,
+72,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,05-Jun-23,
+73,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,10-May-23,
+74,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,11-May-23,
+75,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,12-Mar-25,
+76,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,12-May-23,
+77,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,13-May-24,
+78,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,15-May-24,
+79,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,16-Apr-25,
+80,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,17-Apr-25,
+81,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,17-Feb-20,
+82,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,17-Nov-22,
+83,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,18-Feb-25,
+84,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,18-Mar-25,
+85,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,20-Mar-25,
+86,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,22-Apr-25,
+87,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,22-Feb-21,
+88,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,23-Apr-25,
+89,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,24-Apr-23,
+90,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,24-Jan-25,
+91,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,24-May-24,
+92,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,27-May-24,
+93,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1000,750,28-Jan-25,
+94,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1100,800,22-Mar-21,
+95,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1200,850,16-Jan-23,
+96,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1200,850,17-Jan-23,
+97,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1400,950,18-Feb-21,
+98,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1500,1000,03-Jan-25,
+99,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1500,1000,17-Jun-20,
+100,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1500,1000,30-Dec-24,
+101,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,500,1500,1000,31-Dec-24,
+102,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,700,650,07-Mar-25,
+103,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,700,650,10-Mar-25,
+104,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,900,750,12-Dec-22,
+105,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,900,750,13-Dec-22,
+106,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1000,800,08-May-23,
+107,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1000,800,20-Feb-20,
+108,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1000,800,24-Jan-20,
+109,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1000,800,28-Jan-21,
+110,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1100,850,13-Apr-23,
+111,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1100,850,15-May-23,
+112,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1100,850,16-May-23,
+113,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1200,900,01-May-25,
+114,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1200,900,02-May-25,
+115,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1200,900,08-Feb-21,
+116,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1200,900,12-Jun-24,
+117,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1200,900,18-May-23,
+118,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1200,900,19-May-23,
+119,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1200,900,21-May-25,
+120,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1300,800,30-Mar-21,
+121,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1300,950,09-Feb-21,
+122,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1300,950,15-Mar-21,
+123,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1300,950,16-Mar-21,
+124,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1400,1000,22-Mar-23,
+125,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,1500,1050,20-Jan-20,
+126,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,600,2000,1300,27-Dec-24,
+127,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,03-Feb-25,
+128,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,05-Feb-25,
+129,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,06-Feb-25,
+130,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,07-Apr-25,
+131,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,07-Feb-22,
+132,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,07-Feb-25,
+133,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,09-Jun-23,
+134,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,26-Mar-25,
+135,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,27-Mar-25,
+136,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,800,750,28-Mar-25,
+137,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,900,800,13-Oct-23,
+138,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1000,850,11-Nov-22,
+139,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1000,850,14-Nov-22,
+140,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1000,850,21-Nov-22,
+141,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1100,900,04-Feb-21,
+142,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1100,900,08-Dec-22,
+143,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1100,900,09-Dec-22,
+144,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1100,900,13-Mar-21,
+145,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1100,900,18-Nov-22,
+146,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1100,900,22-Nov-22,
+147,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1100,900,23-Nov-22,
+148,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1200,950,07-Jun-24,
+149,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1200,950,09-Apr-21,
+150,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1200,950,10-Jan-25,
+151,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1200,950,10-Jun-24,
+152,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1300,1000,11-Feb-21,
+153,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1300,1000,13-Jan-25,
+154,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1300,1000,15-Jan-25,
+155,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1300,1000,22-Dec-20,
+156,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1400,1050,17-Jan-20,
+157,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1400,1050,18-Apr-24,
+158,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1500,1100,10-Jan-20,
+159,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1500,1100,18-Dec-23,
+160,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1500,1100,19-Dec-23,
+161,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1500,1100,20-Dec-23,
+162,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,700,1700,1200,13-Jan-20,
+163,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,900,850,03-Mar-25,
+164,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,900,850,21-Jan-22,
+165,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,900,850,27-Feb-25,
+166,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1000,900,09-Oct-23,
+167,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1000,900,12-Jan-24,
+168,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1000,900,17-Mar-25,
+169,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1000,900,19-Mar-25,
+170,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1000,900,29-Apr-22,
+171,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1000,900,29-Jan-25,
+172,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1000,900,31-Jan-25,
+173,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1100,950,07-Dec-22,
+174,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,05-Dec-22,
+175,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,05-Jun-24,
+176,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,06-Apr-21,
+177,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,06-Jun-24,
+178,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,07-Apr-21,
+179,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,09-May-24,
+180,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,11-Jun-24,
+181,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,15-Nov-22,
+182,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,17-Apr-23,
+183,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,18-Sep-23,
+184,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,20-Mar-23,
+185,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,24-Nov-22,
+186,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,28-Dec-23,
+187,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1200,1000,29-Dec-23,
+188,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1300,1050,05-Jun-25,
+189,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1300,1050,07-Feb-24,
+190,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1300,1050,07-Jan-21,
+191,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1400,1100,02-Jan-24,
+192,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1400,1100,02-Jun-25,
+193,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1400,1100,03-Jun-25,
+194,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1400,1100,04-Jun-25,
+195,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1400,1100,13-Jun-24,
+196,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1400,1100,28-May-25,
+197,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1500,1150,03-Jan-24,
+198,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1500,1150,04-Jan-24,
+199,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1500,1150,08-Jan-24,
+200,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1500,1150,15-Dec-23,
+201,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1500,1150,25-Nov-22,
+202,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1600,1200,02-Jan-25,
+203,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1600,1200,22-Dec-23,
+204,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,800,1800,1300,21-Dec-23,
+205,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1000,950,03-Apr-25,
+206,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1000,950,09-Mar-22,
+207,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1000,950,11-Mar-25,
+208,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1000,950,22-Feb-22,
+209,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1000,950,25-Feb-22,
+210,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1200,1050,14-Sep-23,
+211,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1400,1150,04-Oct-23,
+212,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,900,1500,1200,05-Oct-23,
+213,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1100,1050,21-Jan-25,
+214,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1100,1050,21-Sep-23,
+215,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,03-May-24,
+216,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,05-Feb-24,
+217,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,06-May-24,
+218,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,06-Oct-23,
+219,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,07-May-24,
+220,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,08-Apr-21,
+221,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,08-May-24,
+222,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,08-Sep-23,
+223,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,11-Sep-23,
+224,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,12-Sep-23,
+225,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,13-Sep-23,
+226,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,19-Jun-23,
+227,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,22-Sep-23,
+228,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,28-May-24,
+229,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,30-May-24,
+230,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1200,1100,31-May-24,
+231,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1300,1150,09-Feb-24,
+232,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1300,1150,10-Nov-22,
+233,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1300,1150,29-May-24,
+234,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1400,1200,02-May-24,
+235,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1400,1200,03-Oct-23,
+236,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1400,1200,05-Apr-21,
+237,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1400,1200,06-Feb-24,
+238,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1400,1200,19-Oct-23,
+239,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1400,1200,20-Oct-23,
+240,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1400,1200,22-Apr-24,
+241,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1200,15-Jun-23,
+242,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,08-Feb-24,
+243,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,13-Jun-23,
+244,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,14-Dec-23,
+245,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,14-Jun-23,
+246,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,14-Mar-24,
+247,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,15-Apr-24,
+248,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,17-Oct-23,
+249,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,22-May-25,
+250,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,23-May-25,
+251,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,26-May-25,
+252,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,27-Dec-23,
+253,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1500,1250,27-May-25,
+254,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1600,1300,18-Oct-23,
+255,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1800,1400,18-Jan-24,
+256,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,1800,1400,22-Jan-24,
+257,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2100,1550,09-Jan-20,
+258,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2200,1600,01-Mar-24,
+259,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2200,1600,13-Feb-24,
+260,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2200,1600,15-Feb-24,
+261,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2200,1600,17-Jun-25,
+262,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2200,1600,26-Dec-24,
+263,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2200,1600,28-Feb-24,
+264,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2200,1600,29-Feb-24,
+265,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2500,1750,02-Feb-24,
+266,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2500,1750,20-Feb-24,
+267,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2500,1750,26-Feb-24,
+268,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2700,1850,23-Dec-24,
+269,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2700,1850,24-Dec-24,
+270,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1000,2800,1900,20-Jul-21,
+271,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1100,1300,1200,16-Oct-23,
+272,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1100,1300,1200,26-Sep-23,
+273,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1100,2500,1800,18-Jun-25,
+274,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1100,2500,1800,19-Jun-25,
+275,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1300,1250,08-Apr-24,
+276,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1300,1250,09-Apr-24,
+277,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1300,1250,12-Apr-24,
+278,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1800,1500,15-Mar-24,
+279,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1800,1500,25-Apr-24,
+280,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1800,1500,26-Apr-24,
+281,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1800,1500,29-Apr-24,
+282,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,1800,1500,30-Apr-24,
+283,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2000,1600,11-Dec-23,
+284,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2000,1600,12-Dec-23,
+285,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2000,1600,13-Dec-23,
+286,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2000,1600,18-Mar-24,
+287,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2000,1600,19-Mar-24,
+288,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2000,1600,24-Apr-24,
+289,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2200,1700,02-Apr-24,
+290,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2200,1700,11-Mar-24,
+291,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2200,1700,12-Mar-24,
+292,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2200,1700,23-Apr-24,
+293,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2300,1750,12-Feb-24,
+294,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2300,1750,14-Feb-24,
+295,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2300,1750,27-Feb-24,
+296,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2500,1850,19-Feb-24,
+297,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2500,1850,21-Feb-24,
+298,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1200,2500,1850,23-Feb-24,
+299,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1300,1400,1350,24-Mar-22,
+300,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1300,1500,1400,06-Sep-23,
+301,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1300,2000,1650,29-Nov-22,
+302,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1300,2500,1900,16-Jun-25,
+303,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1400,1500,1450,03-Apr-24,
+304,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1400,1600,1500,22-Mar-24,
+305,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1400,1800,1600,04-Apr-24,
+306,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1400,1800,1600,06-Jun-25,
+307,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1400,2000,1700,16-Jan-24,
+308,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1400,2600,2000,20-Mar-24,
+309,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1400,2600,2000,21-Mar-24,
+310,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,1800,1650,01-May-24,
+311,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,1800,1650,07-Nov-22,
+312,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2000,1750,02-Nov-23,
+313,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2000,1750,04-Mar-24,
+314,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2000,1750,20-Dec-24,
+315,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2000,1750,25-Oct-23,
+316,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2200,1850,01-Dec-22,
+317,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2200,1850,05-Mar-24,
+318,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2200,1850,06-Mar-24,
+319,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2200,1850,07-Mar-24,
+320,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2200,1850,10-Nov-23,
+321,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2500,2000,22-Feb-24,
+322,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,2800,2150,08-Dec-23,
+323,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1500,3500,2500,07-Dec-23,
+324,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1600,2300,1950,09-Nov-23,
+325,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1600,2500,2050,03-Nov-23,
+326,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1600,2500,2050,09-Nov-22,
+327,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1600,2500,2050,20-Jun-25,
+328,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1600,2500,2050,23-Jun-25,
+329,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1700,2000,1850,04-Nov-22,
+330,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1700,2500,2100,07-Nov-23,
+331,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1800,2400,2100,27-Mar-24,
+332,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1800,2500,2150,03-Nov-22,
+333,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1800,2500,2150,11-Sep-24,
+334,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1800,2500,2150,28-Jun-24,
+335,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,1800,3000,2400,01-Dec-23,
+336,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2200,2100,04-Sep-23,
+337,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2200,2100,05-Sep-23,
+338,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2200,2100,13-Dec-24,
+339,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2200,2100,16-Dec-24,
+340,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2200,2100,17-Dec-24,
+341,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2200,2100,31-Dec-21,
+342,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2400,2200,01-Nov-22,
+343,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2400,2200,02-Nov-22,
+344,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2400,2200,02-Sep-24,
+345,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2400,2200,23-Sep-22,
+346,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2400,2200,30-Aug-24,
+347,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,01-Nov-23,
+348,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,14-Sep-22,
+349,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,23-Jun-23,
+350,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,24-Aug-23,
+351,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,24-Dec-21,
+352,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,27-Oct-23,
+353,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,28-Aug-24,
+354,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2500,2250,29-Aug-24,
+355,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2600,2300,16-Sep-22,
+356,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2600,2300,26-Jun-23,
+357,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2600,2300,27-Sep-22,
+358,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2800,2400,10-Oct-22,
+359,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2800,2400,11-Oct-22,
+360,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,2800,2400,28-Sep-22,
+361,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3000,2500,12-Jun-25,
+362,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3000,2500,18-Dec-24,
+363,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3000,2750,25-Jun-24,
+364,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3500,2250,07-Aug-20,
+365,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3500,2750,04-Dec-23,
+366,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3500,2750,05-Dec-23,
+367,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3500,2750,06-Dec-23,
+368,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3500,2750,17-Nov-23,
+369,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3500,2750,31-Jul-20,
+370,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,3800,2900,28-Oct-21,
+371,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2000,4000,3000,24-Jun-25,
+372,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,2400,2300,26-Mar-24,
+373,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,2500,2350,20-Sep-22,
+374,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,2700,2450,26-Jun-25,
+375,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,2800,2500,06-Oct-22,
+376,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,2800,2500,07-Oct-22,
+377,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,2800,2500,27-Jun-25,
+378,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,2800,2500,30-Jun-25,
+379,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,3000,2600,26-Jun-24,
+380,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,3000,2600,27-Jun-24,
+381,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,3000,2600,31-Oct-22,
+382,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2200,3200,2700,19-Sep-22,
+383,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2300,2700,2500,26-Nov-20,
+384,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2300,4000,3150,14-Oct-22,
+385,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2400,3000,2700,03-Sep-24,
+386,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2400,3000,2700,12-Sep-22,
+387,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2400,3000,2700,13-Sep-22,
+388,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2400,3100,2750,22-Sep-22,
+389,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2400,3500,2950,01-Nov-21,
+390,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2400,3500,2950,29-Oct-21,
+391,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,2800,2650,08-Oct-20,
+392,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,2800,2650,14-Nov-24,
+393,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,2800,2650,20-Jun-24,
+394,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2700,04-Sep-24,
+395,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,01-Jul-24,
+396,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,02-Jul-24,
+397,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,12-Sep-24,
+398,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,19-Jun-24,
+399,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,20-Jun-22,
+400,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,21-Jun-24,
+401,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,22-Aug-24,
+402,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,24-Jun-24,
+403,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,25-Aug-23,
+404,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,27-Sep-21,
+405,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,28-Aug-23,
+406,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,29-Aug-23,
+407,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3000,2750,31-Aug-23,
+408,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3500,3000,12-Oct-22,
+409,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3500,3000,13-Jun-25,
+410,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3500,3000,20-Nov-23,
+411,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3500,3000,22-Nov-23,
+412,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3500,3000,23-Nov-23,
+413,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3500,3000,24-Nov-23,
+414,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,3500,3000,28-Nov-23,
+415,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,4000,3250,25-Jun-25,
+416,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,4500,3500,29-Nov-23,
+417,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2500,4500,3500,30-Nov-23,
+418,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,2700,2650,11-Dec-24,
+419,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,2700,2650,12-Dec-24,
+420,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,2800,2700,17-Aug-20,
+421,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,2800,2700,18-Aug-20,
+422,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,2900,2750,21-Oct-20,
+423,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,3000,2800,29-Sep-22,
+424,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,3000,2800,30-Sep-22,
+425,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,4000,3300,04-Nov-24,
+426,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2600,4200,3400,29-Oct-24,
+427,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2700,3000,2850,06-Nov-24,
+428,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2700,3500,3100,03-Jul-25,
+429,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2700,4000,3350,05-Nov-24,
+430,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2700,4000,3350,07-Nov-24,
+431,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3000,2900,11-Nov-24,
+432,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3000,2900,12-Nov-24,
+433,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3000,2900,14-Aug-24,
+434,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3000,2900,19-Dec-24,
+435,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3000,2900,20-Nov-24,
+436,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3000,2900,21-Nov-24,
+437,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3000,2900,29-Nov-24,
+438,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3200,3000,02-Aug-24,
+439,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3200,3000,23-Aug-24,
+440,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3400,3100,25-Nov-21,
+441,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3500,3150,02-Jul-25,
+442,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3500,3150,20-Oct-22,
+443,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,3600,3200,01-Jul-25,
+444,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,4000,3400,08-Nov-24,
+445,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,4200,3500,21-Oct-21,
+446,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,2800,4200,3500,22-Oct-21,
+447,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,15-Jul-25,
+448,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,16-Jul-25,
+449,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,17-Jul-25,
+450,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,18-Jul-25,
+451,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,19-Nov-24,
+452,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,22-Nov-24,
+453,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,26-Nov-24,
+454,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,27-Nov-24,
+455,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3200,3100,28-Nov-24,
+456,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3300,3150,09-Jul-25,
+457,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3400,3200,11-Jul-25,
+458,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3400,3200,14-Jul-25,
+459,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3500,3250,18-Jun-24,
+460,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3500,3250,18-Oct-22,
+461,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3500,3250,19-Oct-22,
+462,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3500,3250,21-Nov-23,
+463,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3500,3250,25-Jul-25,
+464,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3600,3300,05-Dec-24,
+465,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3700,3350,08-Jul-20,
+466,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,3700,3350,10-Jul-20,
+467,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,4000,3500,04-Dec-24,
+468,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,4200,3600,12-Nov-21,
+469,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,4200,3600,28-Oct-24,
+470,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,4500,3750,03-Nov-21,
+471,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,4500,3750,10-Nov-21,
+472,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3000,5000,4000,03-Jul-24,
+473,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3100,3600,3350,10-Dec-21,
+474,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3300,3250,06-Dec-24,
+475,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3300,3250,09-Dec-24,
+476,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3300,3250,10-Dec-24,
+477,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3400,3300,18-Nov-24,
+478,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3400,3300,21-Jul-25,
+479,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3500,3350,07-Aug-24,
+480,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3500,3350,08-Aug-24,
+481,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3500,3350,10-Jul-25,
+482,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,3800,3500,05-Aug-24,
+483,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,4500,3850,21-Oct-22,
+484,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3200,5000,4100,25-Oct-24,
+485,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3300,3400,3350,22-Jul-25,
+486,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3400,3500,3450,08-Jul-25,
+487,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3400,3600,3500,23-Jul-25,
+488,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3400,3600,3500,23-Sep-20,
+489,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,3600,3550,02-Dec-24,
+490,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,3600,3550,03-Dec-24,
+491,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,3800,3650,04-Jul-25,
+492,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,3800,3650,07-Jul-25,
+493,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,3800,3650,14-Oct-21,
+494,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,3800,3650,16-Sep-20,
+495,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,4000,3750,06-Jul-20,
+496,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,4000,3750,21-Aug-23,
+497,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,4000,3750,22-Aug-23,
+498,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3500,4000,3750,23-Aug-23,
+499,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3800,4000,3900,18-Oct-21,
+500,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3800,4000,3900,20-Oct-21,
+501,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,3800,4500,4150,24-Jul-25,
+502,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,4500,4250,23-Nov-21,
+503,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,4800,4400,01-Aug-25,
+504,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,04-Jul-24,
+505,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,05-Jul-24,
+506,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,10-Jul-24,
+507,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,14-Oct-24,
+508,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,15-Oct-24,
+509,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,18-Aug-23,
+510,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,24-Sep-24,
+511,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,27-Sep-24,
+512,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,5000,4500,30-Sep-24,
+513,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,6000,5000,17-Aug-23,
+514,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,6000,5000,27-Jun-23,
+515,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,6500,5250,28-Jun-23,
+516,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4000,6500,5250,30-Jun-23,
+517,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4200,4800,4500,28-Jul-25,
+518,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4200,4800,4500,29-Jul-25,
+519,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4300,6000,5150,21-Oct-24,
+520,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4400,4800,4600,30-Jul-25,
+521,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4500,4800,4650,08-Aug-25,
+522,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4500,4800,4650,11-Aug-25,
+523,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4500,5000,4750,12-Jul-24,
+524,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4500,5500,5000,08-Jul-24,
+525,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4500,5500,5000,09-Jul-24,
+526,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4500,5500,5000,11-Jul-24,
+527,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,4500,5500,5000,18-Oct-24,
+528,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5200,5100,29-Jul-24,
+529,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5200,5100,30-Jul-24,
+530,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5200,5100,31-Jul-24,
+531,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5500,5250,04-Oct-24,
+532,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5500,5250,07-Oct-24,
+533,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5500,5250,18-Jul-24,
+534,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5500,5250,19-Jul-24,
+535,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5500,5250,24-Jul-24,
+536,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5500,5250,25-Jul-24,
+537,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,5500,5250,26-Jul-24,
+538,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,8000,6500,03-Jul-23,
+539,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,8000,6500,16-Aug-23,
+540,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,8200,6600,04-Jul-23,
+541,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,8200,6600,05-Jul-23,
+542,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,9000,7000,18-Jul-23,
+543,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5000,9000,7000,19-Jul-23,
+544,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5500,6500,6000,08-Oct-24,
+545,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5800,6800,6300,09-Oct-24,
+546,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,5800,6800,6300,10-Oct-24,
+547,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,6000,6500,6250,15-Jul-24,
+548,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,6000,6500,6250,16-Jul-24,
+549,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,6000,7000,6500,23-Jul-24,
+550,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,6500,7000,6750,22-Jul-24,
+551,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,7000,8000,7500,06-Jul-23,
+552,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,7000,8200,7600,07-Jul-23,
+553,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,7000,8200,7600,10-Jul-23,
+554,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,10000,9000,21-Jul-23,
+555,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,10000,9000,24-Jul-23,
+556,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,10500,9250,25-Jul-23,
+557,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,11000,9500,08-Aug-23,
+558,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,11000,9500,10-Aug-23,
+559,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,11000,9500,14-Aug-23,
+560,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,11000,9500,20-Jul-23,
+561,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,12000,10000,01-Aug-23,
+562,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,12000,10000,12-Jul-23,
+563,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,12000,10000,28-Jul-23,
+564,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,12000,10000,31-Jul-23,
+565,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,12500,10250,02-Aug-23,
+566,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,12500,10250,03-Aug-23,
+567,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,12500,10250,04-Aug-23,
+568,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,8000,13000,10500,11-Jul-23,
+569,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,10000,11000,10500,27-Jul-23,
+570,Jaipur,Jaipur (F&V),Tomato,Other,FAQ,10000,12000,11000,26-Jul-23,
+571,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,800,1400,1100,30-May-25,
+572,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1292,1174,12-Aug-25,Rajasthan
+573,Pune,Pune,Tomato,Other,Non-FAQ,1023,1284,1163,12-Aug-25,Maharashtra
+574,Agra,Achhnera,Tomato,Other,Non-FAQ,918,1250,1059,12-Aug-25,Uttar Pradesh
+575,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,974,1399,1161,13-Aug-25,Rajasthan
+576,Pune,Pune,Tomato,Other,Non-FAQ,867,1279,1062,13-Aug-25,Maharashtra
+577,Agra,Achhnera,Tomato,Other,Non-FAQ,940,1281,1139,13-Aug-25,Uttar Pradesh
+578,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1005,1289,1129,14-Aug-25,Rajasthan
+579,Pune,Pune,Tomato,Other,Non-FAQ,897,1306,1108,14-Aug-25,Maharashtra
+580,Agra,Achhnera,Tomato,Other,Non-FAQ,947,1295,1117,14-Aug-25,Uttar Pradesh
+581,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,998,1235,1113,15-Aug-25,Rajasthan
+582,Pune,Pune,Tomato,Other,Non-FAQ,968,1257,1087,15-Aug-25,Maharashtra
+583,Agra,Achhnera,Tomato,Other,Non-FAQ,969,1218,1077,15-Aug-25,Uttar Pradesh
+584,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,912,1227,1053,16-Aug-25,Rajasthan
+585,Pune,Pune,Tomato,Other,Non-FAQ,974,1276,1108,16-Aug-25,Maharashtra
+586,Agra,Achhnera,Tomato,Other,Non-FAQ,901,1311,1115,16-Aug-25,Uttar Pradesh
+587,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,990,1283,1119,17-Aug-25,Rajasthan
+588,Pune,Pune,Tomato,Other,Non-FAQ,998,1249,1132,17-Aug-25,Maharashtra
+589,Agra,Achhnera,Tomato,Other,Non-FAQ,963,1302,1106,17-Aug-25,Uttar Pradesh
+590,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1222,1090,18-Aug-25,Rajasthan
+591,Pune,Pune,Tomato,Other,Non-FAQ,961,1316,1072,18-Aug-25,Maharashtra
+592,Agra,Achhnera,Tomato,Other,Non-FAQ,1017,1299,1135,18-Aug-25,Uttar Pradesh
+593,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,896,1335,1109,19-Aug-25,Rajasthan
+594,Pune,Pune,Tomato,Other,Non-FAQ,997,1308,1120,19-Aug-25,Maharashtra
+595,Agra,Achhnera,Tomato,Other,Non-FAQ,927,1375,1139,19-Aug-25,Uttar Pradesh
+596,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,938,1291,1149,20-Aug-25,Rajasthan
+597,Pune,Pune,Tomato,Other,Non-FAQ,981,1297,1143,20-Aug-25,Maharashtra
+598,Agra,Achhnera,Tomato,Other,Non-FAQ,946,1327,1110,20-Aug-25,Uttar Pradesh
+599,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,991,1347,1162,21-Aug-25,Rajasthan
+600,Pune,Pune,Tomato,Other,Non-FAQ,940,1293,1136,21-Aug-25,Maharashtra
+601,Agra,Achhnera,Tomato,Other,Non-FAQ,891,1222,1099,21-Aug-25,Uttar Pradesh
+602,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,948,1349,1097,22-Aug-25,Rajasthan
+603,Pune,Pune,Tomato,Other,Non-FAQ,973,1238,1110,22-Aug-25,Maharashtra
+604,Agra,Achhnera,Tomato,Other,Non-FAQ,903,1321,1091,22-Aug-25,Uttar Pradesh
+605,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,981,1290,1115,23-Aug-25,Rajasthan
+606,Pune,Pune,Tomato,Other,Non-FAQ,888,1356,1109,23-Aug-25,Maharashtra
+607,Agra,Achhnera,Tomato,Other,Non-FAQ,990,1349,1120,23-Aug-25,Uttar Pradesh
+608,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,959,1378,1131,24-Aug-25,Rajasthan
+609,Pune,Pune,Tomato,Other,Non-FAQ,903,1298,1108,24-Aug-25,Maharashtra
+610,Agra,Achhnera,Tomato,Other,Non-FAQ,989,1395,1124,24-Aug-25,Uttar Pradesh
+611,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,941,1271,1091,25-Aug-25,Rajasthan
+612,Pune,Pune,Tomato,Other,Non-FAQ,953,1295,1118,25-Aug-25,Maharashtra
+613,Agra,Achhnera,Tomato,Other,Non-FAQ,1003,1399,1177,25-Aug-25,Uttar Pradesh
+614,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1035,1397,1169,26-Aug-25,Rajasthan
+615,Pune,Pune,Tomato,Other,Non-FAQ,936,1322,1063,26-Aug-25,Maharashtra
+616,Agra,Achhnera,Tomato,Other,Non-FAQ,931,1378,1111,26-Aug-25,Uttar Pradesh
+617,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,970,1280,1115,27-Aug-25,Rajasthan
+618,Pune,Pune,Tomato,Other,Non-FAQ,953,1377,1177,27-Aug-25,Maharashtra
+619,Agra,Achhnera,Tomato,Other,Non-FAQ,944,1253,1132,27-Aug-25,Uttar Pradesh
+620,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,962,1326,1115,28-Aug-25,Rajasthan
+621,Pune,Pune,Tomato,Other,Non-FAQ,1040,1303,1182,28-Aug-25,Maharashtra
+622,Agra,Achhnera,Tomato,Other,Non-FAQ,946,1242,1076,28-Aug-25,Uttar Pradesh
+623,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,911,1239,1073,29-Aug-25,Rajasthan
+624,Pune,Pune,Tomato,Other,Non-FAQ,976,1422,1152,29-Aug-25,Maharashtra
+625,Agra,Achhnera,Tomato,Other,Non-FAQ,957,1324,1165,29-Aug-25,Uttar Pradesh
+626,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,893,1195,1053,30-Aug-25,Rajasthan
+627,Pune,Pune,Tomato,Other,Non-FAQ,989,1289,1120,30-Aug-25,Maharashtra
+628,Agra,Achhnera,Tomato,Other,Non-FAQ,939,1279,1108,30-Aug-25,Uttar Pradesh
+629,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1011,1330,1147,31-Aug-25,Rajasthan
+630,Pune,Pune,Tomato,Other,Non-FAQ,1041,1339,1175,31-Aug-25,Maharashtra
+631,Agra,Achhnera,Tomato,Other,Non-FAQ,1003,1260,1143,31-Aug-25,Uttar Pradesh
+632,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,973,1380,1111,01-Sep-25,Rajasthan
+633,Pune,Pune,Tomato,Other,Non-FAQ,959,1365,1131,01-Sep-25,Maharashtra
+634,Agra,Achhnera,Tomato,Other,Non-FAQ,935,1361,1097,01-Sep-25,Uttar Pradesh
+635,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1298,1091,02-Sep-25,Rajasthan
+636,Pune,Pune,Tomato,Other,Non-FAQ,1014,1261,1138,02-Sep-25,Maharashtra
+637,Agra,Achhnera,Tomato,Other,Non-FAQ,895,1303,1084,02-Sep-25,Uttar Pradesh
+638,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,952,1306,1081,03-Sep-25,Rajasthan
+639,Pune,Pune,Tomato,Other,Non-FAQ,951,1316,1126,03-Sep-25,Maharashtra
+640,Agra,Achhnera,Tomato,Other,Non-FAQ,986,1374,1121,03-Sep-25,Uttar Pradesh
+641,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,916,1260,1138,04-Sep-25,Rajasthan
+642,Pune,Pune,Tomato,Other,Non-FAQ,897,1240,1077,04-Sep-25,Maharashtra
+643,Agra,Achhnera,Tomato,Other,Non-FAQ,929,1318,1104,04-Sep-25,Uttar Pradesh
+644,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1004,1270,1121,05-Sep-25,Rajasthan
+645,Pune,Pune,Tomato,Other,Non-FAQ,1006,1312,1155,05-Sep-25,Maharashtra
+646,Agra,Achhnera,Tomato,Other,Non-FAQ,1014,1424,1141,05-Sep-25,Uttar Pradesh
+647,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1016,1451,1163,06-Sep-25,Rajasthan
+648,Pune,Pune,Tomato,Other,Non-FAQ,902,1272,1088,06-Sep-25,Maharashtra
+649,Agra,Achhnera,Tomato,Other,Non-FAQ,885,1337,1106,06-Sep-25,Uttar Pradesh
+650,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,903,1289,1099,07-Sep-25,Rajasthan
+651,Pune,Pune,Tomato,Other,Non-FAQ,1036,1337,1155,07-Sep-25,Maharashtra
+652,Agra,Achhnera,Tomato,Other,Non-FAQ,954,1334,1104,07-Sep-25,Uttar Pradesh
+653,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,945,1274,1156,08-Sep-25,Rajasthan
+654,Pune,Pune,Tomato,Other,Non-FAQ,942,1327,1111,08-Sep-25,Maharashtra
+655,Agra,Achhnera,Tomato,Other,Non-FAQ,919,1288,1082,08-Sep-25,Uttar Pradesh
+656,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,983,1350,1193,09-Sep-25,Rajasthan
+657,Pune,Pune,Tomato,Other,Non-FAQ,903,1211,1055,09-Sep-25,Maharashtra
+658,Agra,Achhnera,Tomato,Other,Non-FAQ,957,1268,1085,09-Sep-25,Uttar Pradesh
+659,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,932,1355,1123,10-Sep-25,Rajasthan
+660,Pune,Pune,Tomato,Other,Non-FAQ,943,1367,1116,10-Sep-25,Maharashtra
+661,Agra,Achhnera,Tomato,Other,Non-FAQ,895,1314,1106,10-Sep-25,Uttar Pradesh
+662,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1031,1274,1155,11-Sep-25,Rajasthan
+663,Pune,Pune,Tomato,Other,Non-FAQ,928,1313,1130,11-Sep-25,Maharashtra
+664,Agra,Achhnera,Tomato,Other,Non-FAQ,954,1264,1113,11-Sep-25,Uttar Pradesh
+665,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,934,1258,1109,12-Sep-25,Rajasthan
+666,Pune,Pune,Tomato,Other,Non-FAQ,989,1288,1141,12-Sep-25,Maharashtra
+667,Agra,Achhnera,Tomato,Other,Non-FAQ,900,1233,1089,12-Sep-25,Uttar Pradesh
+668,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1055,1434,1176,13-Sep-25,Rajasthan
+669,Pune,Pune,Tomato,Other,Non-FAQ,1008,1270,1122,13-Sep-25,Maharashtra
+670,Agra,Achhnera,Tomato,Other,Non-FAQ,974,1277,1141,13-Sep-25,Uttar Pradesh
+671,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,947,1219,1077,14-Sep-25,Rajasthan
+672,Pune,Pune,Tomato,Other,Non-FAQ,969,1258,1092,14-Sep-25,Maharashtra
+673,Agra,Achhnera,Tomato,Other,Non-FAQ,1006,1292,1135,14-Sep-25,Uttar Pradesh
+674,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,973,1260,1125,15-Sep-25,Rajasthan
+675,Pune,Pune,Tomato,Other,Non-FAQ,927,1254,1096,15-Sep-25,Maharashtra
+676,Agra,Achhnera,Tomato,Other,Non-FAQ,880,1332,1091,15-Sep-25,Uttar Pradesh
+677,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,910,1362,1134,16-Sep-25,Rajasthan
+678,Pune,Pune,Tomato,Other,Non-FAQ,980,1363,1136,16-Sep-25,Maharashtra
+679,Agra,Achhnera,Tomato,Other,Non-FAQ,910,1392,1128,16-Sep-25,Uttar Pradesh
+680,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1006,1287,1136,17-Sep-25,Rajasthan
+681,Pune,Pune,Tomato,Other,Non-FAQ,931,1301,1107,17-Sep-25,Maharashtra
+682,Agra,Achhnera,Tomato,Other,Non-FAQ,1009,1314,1131,17-Sep-25,Uttar Pradesh
+683,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,984,1258,1137,18-Sep-25,Rajasthan
+684,Pune,Pune,Tomato,Other,Non-FAQ,920,1321,1076,18-Sep-25,Maharashtra
+685,Agra,Achhnera,Tomato,Other,Non-FAQ,891,1157,1043,18-Sep-25,Uttar Pradesh
+686,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,945,1305,1055,19-Sep-25,Rajasthan
+687,Pune,Pune,Tomato,Other,Non-FAQ,905,1192,1058,19-Sep-25,Maharashtra
+688,Agra,Achhnera,Tomato,Other,Non-FAQ,920,1248,1119,19-Sep-25,Uttar Pradesh
+689,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,945,1227,1052,20-Sep-25,Rajasthan
+690,Pune,Pune,Tomato,Other,Non-FAQ,935,1297,1102,20-Sep-25,Maharashtra
+691,Agra,Achhnera,Tomato,Other,Non-FAQ,930,1267,1044,20-Sep-25,Uttar Pradesh
+692,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,959,1357,1147,21-Sep-25,Rajasthan
+693,Pune,Pune,Tomato,Other,Non-FAQ,963,1359,1171,21-Sep-25,Maharashtra
+694,Agra,Achhnera,Tomato,Other,Non-FAQ,1032,1438,1161,21-Sep-25,Uttar Pradesh
+695,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,934,1226,1101,22-Sep-25,Rajasthan
+696,Pune,Pune,Tomato,Other,Non-FAQ,898,1251,1100,22-Sep-25,Maharashtra
+697,Agra,Achhnera,Tomato,Other,Non-FAQ,958,1329,1161,22-Sep-25,Uttar Pradesh
+698,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,912,1368,1119,23-Sep-25,Rajasthan
+699,Pune,Pune,Tomato,Other,Non-FAQ,983,1251,1096,23-Sep-25,Maharashtra
+700,Agra,Achhnera,Tomato,Other,Non-FAQ,854,1303,1064,23-Sep-25,Uttar Pradesh
+701,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,982,1298,1154,24-Sep-25,Rajasthan
+702,Pune,Pune,Tomato,Other,Non-FAQ,956,1373,1106,24-Sep-25,Maharashtra
+703,Agra,Achhnera,Tomato,Other,Non-FAQ,1020,1364,1134,24-Sep-25,Uttar Pradesh
+704,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,869,1256,1068,25-Sep-25,Rajasthan
+705,Pune,Pune,Tomato,Other,Non-FAQ,952,1254,1099,25-Sep-25,Maharashtra
+706,Agra,Achhnera,Tomato,Other,Non-FAQ,923,1263,1065,25-Sep-25,Uttar Pradesh
+707,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1014,1253,1133,26-Sep-25,Rajasthan
+708,Pune,Pune,Tomato,Other,Non-FAQ,888,1119,998,26-Sep-25,Maharashtra
+709,Agra,Achhnera,Tomato,Other,Non-FAQ,1007,1321,1121,26-Sep-25,Uttar Pradesh
+710,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,890,1238,1027,27-Sep-25,Rajasthan
+711,Pune,Pune,Tomato,Other,Non-FAQ,845,1257,1050,27-Sep-25,Maharashtra
+712,Agra,Achhnera,Tomato,Other,Non-FAQ,849,1233,1022,27-Sep-25,Uttar Pradesh
+713,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,955,1323,1156,28-Sep-25,Rajasthan
+714,Pune,Pune,Tomato,Other,Non-FAQ,914,1249,1119,28-Sep-25,Maharashtra
+715,Agra,Achhnera,Tomato,Other,Non-FAQ,1018,1336,1134,28-Sep-25,Uttar Pradesh
+716,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,952,1295,1161,29-Sep-25,Rajasthan
+717,Pune,Pune,Tomato,Other,Non-FAQ,895,1224,1080,29-Sep-25,Maharashtra
+718,Agra,Achhnera,Tomato,Other,Non-FAQ,909,1366,1117,29-Sep-25,Uttar Pradesh
+719,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,957,1247,1103,30-Sep-25,Rajasthan
+720,Pune,Pune,Tomato,Other,Non-FAQ,940,1308,1099,30-Sep-25,Maharashtra
+721,Agra,Achhnera,Tomato,Other,Non-FAQ,920,1232,1120,30-Sep-25,Uttar Pradesh
+722,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,972,1408,1135,01-Oct-25,Rajasthan
+723,Pune,Pune,Tomato,Other,Non-FAQ,919,1399,1132,01-Oct-25,Maharashtra
+724,Agra,Achhnera,Tomato,Other,Non-FAQ,945,1367,1140,01-Oct-25,Uttar Pradesh
+725,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,950,1322,1088,02-Oct-25,Rajasthan
+726,Pune,Pune,Tomato,Other,Non-FAQ,963,1323,1110,02-Oct-25,Maharashtra
+727,Agra,Achhnera,Tomato,Other,Non-FAQ,901,1262,1066,02-Oct-25,Uttar Pradesh
+728,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,895,1246,1090,03-Oct-25,Rajasthan
+729,Pune,Pune,Tomato,Other,Non-FAQ,965,1293,1127,03-Oct-25,Maharashtra
+730,Agra,Achhnera,Tomato,Other,Non-FAQ,987,1318,1117,03-Oct-25,Uttar Pradesh
+731,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,923,1337,1123,04-Oct-25,Rajasthan
+732,Pune,Pune,Tomato,Other,Non-FAQ,954,1250,1108,04-Oct-25,Maharashtra
+733,Agra,Achhnera,Tomato,Other,Non-FAQ,1015,1313,1141,04-Oct-25,Uttar Pradesh
+734,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,912,1300,1079,05-Oct-25,Rajasthan
+735,Pune,Pune,Tomato,Other,Non-FAQ,968,1319,1111,05-Oct-25,Maharashtra
+736,Agra,Achhnera,Tomato,Other,Non-FAQ,942,1196,1067,05-Oct-25,Uttar Pradesh
+737,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,882,1187,1075,06-Oct-25,Rajasthan
+738,Pune,Pune,Tomato,Other,Non-FAQ,974,1299,1105,06-Oct-25,Maharashtra
+739,Agra,Achhnera,Tomato,Other,Non-FAQ,996,1391,1120,06-Oct-25,Uttar Pradesh
+740,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,889,1207,1087,07-Oct-25,Rajasthan
+741,Pune,Pune,Tomato,Other,Non-FAQ,952,1243,1119,07-Oct-25,Maharashtra
+742,Agra,Achhnera,Tomato,Other,Non-FAQ,999,1392,1118,07-Oct-25,Uttar Pradesh
+743,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,930,1287,1112,08-Oct-25,Rajasthan
+744,Pune,Pune,Tomato,Other,Non-FAQ,980,1276,1119,08-Oct-25,Maharashtra
+745,Agra,Achhnera,Tomato,Other,Non-FAQ,917,1351,1113,08-Oct-25,Uttar Pradesh
+746,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,948,1253,1111,09-Oct-25,Rajasthan
+747,Pune,Pune,Tomato,Other,Non-FAQ,884,1318,1092,09-Oct-25,Maharashtra
+748,Agra,Achhnera,Tomato,Other,Non-FAQ,1030,1348,1158,09-Oct-25,Uttar Pradesh
+749,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,980,1260,1095,10-Oct-25,Rajasthan
+750,Pune,Pune,Tomato,Other,Non-FAQ,912,1411,1130,10-Oct-25,Maharashtra
+751,Agra,Achhnera,Tomato,Other,Non-FAQ,906,1247,1103,10-Oct-25,Uttar Pradesh
+752,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,896,1374,1102,11-Oct-25,Rajasthan
+753,Pune,Pune,Tomato,Other,Non-FAQ,984,1304,1117,11-Oct-25,Maharashtra
+754,Agra,Achhnera,Tomato,Other,Non-FAQ,931,1291,1155,11-Oct-25,Uttar Pradesh
+755,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,957,1290,1070,12-Oct-25,Rajasthan
+756,Pune,Pune,Tomato,Other,Non-FAQ,921,1417,1139,12-Oct-25,Maharashtra
+757,Agra,Achhnera,Tomato,Other,Non-FAQ,907,1347,1129,12-Oct-25,Uttar Pradesh
+758,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,935,1260,1048,13-Oct-25,Rajasthan
+759,Pune,Pune,Tomato,Other,Non-FAQ,956,1269,1118,13-Oct-25,Maharashtra
+760,Agra,Achhnera,Tomato,Other,Non-FAQ,953,1224,1092,13-Oct-25,Uttar Pradesh
+761,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,939,1273,1099,14-Oct-25,Rajasthan
+762,Pune,Pune,Tomato,Other,Non-FAQ,869,1174,1019,14-Oct-25,Maharashtra
+763,Agra,Achhnera,Tomato,Other,Non-FAQ,981,1320,1163,14-Oct-25,Uttar Pradesh
+764,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,919,1169,1063,15-Oct-25,Rajasthan
+765,Pune,Pune,Tomato,Other,Non-FAQ,932,1359,1127,15-Oct-25,Maharashtra
+766,Agra,Achhnera,Tomato,Other,Non-FAQ,943,1206,1070,15-Oct-25,Uttar Pradesh
+767,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,942,1261,1087,16-Oct-25,Rajasthan
+768,Pune,Pune,Tomato,Other,Non-FAQ,1017,1311,1185,16-Oct-25,Maharashtra
+769,Agra,Achhnera,Tomato,Other,Non-FAQ,939,1256,1138,16-Oct-25,Uttar Pradesh
+770,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1023,1356,1151,17-Oct-25,Rajasthan
+771,Pune,Pune,Tomato,Other,Non-FAQ,916,1249,1110,17-Oct-25,Maharashtra
+772,Agra,Achhnera,Tomato,Other,Non-FAQ,1006,1309,1119,17-Oct-25,Uttar Pradesh
+773,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,984,1297,1101,18-Oct-25,Rajasthan
+774,Pune,Pune,Tomato,Other,Non-FAQ,939,1336,1147,18-Oct-25,Maharashtra
+775,Agra,Achhnera,Tomato,Other,Non-FAQ,986,1310,1111,18-Oct-25,Uttar Pradesh
+776,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,930,1172,1052,19-Oct-25,Rajasthan
+777,Pune,Pune,Tomato,Other,Non-FAQ,982,1353,1118,19-Oct-25,Maharashtra
+778,Agra,Achhnera,Tomato,Other,Non-FAQ,980,1279,1098,19-Oct-25,Uttar Pradesh
+779,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,945,1304,1085,20-Oct-25,Rajasthan
+780,Pune,Pune,Tomato,Other,Non-FAQ,939,1348,1143,20-Oct-25,Maharashtra
+781,Agra,Achhnera,Tomato,Other,Non-FAQ,909,1384,1114,20-Oct-25,Uttar Pradesh
+782,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,901,1292,1109,21-Oct-25,Rajasthan
+783,Pune,Pune,Tomato,Other,Non-FAQ,914,1246,1070,21-Oct-25,Maharashtra
+784,Agra,Achhnera,Tomato,Other,Non-FAQ,986,1320,1126,21-Oct-25,Uttar Pradesh
+785,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,881,1185,1059,22-Oct-25,Rajasthan
+786,Pune,Pune,Tomato,Other,Non-FAQ,874,1190,1055,22-Oct-25,Maharashtra
+787,Agra,Achhnera,Tomato,Other,Non-FAQ,964,1200,1091,22-Oct-25,Uttar Pradesh
+788,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1040,1387,1165,23-Oct-25,Rajasthan
+789,Pune,Pune,Tomato,Other,Non-FAQ,917,1292,1135,23-Oct-25,Maharashtra
+790,Agra,Achhnera,Tomato,Other,Non-FAQ,980,1234,1097,23-Oct-25,Uttar Pradesh
+791,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,947,1216,1071,24-Oct-25,Rajasthan
+792,Pune,Pune,Tomato,Other,Non-FAQ,899,1271,1091,24-Oct-25,Maharashtra
+793,Agra,Achhnera,Tomato,Other,Non-FAQ,896,1258,1096,24-Oct-25,Uttar Pradesh
+794,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,977,1374,1195,25-Oct-25,Rajasthan
+795,Pune,Pune,Tomato,Other,Non-FAQ,965,1286,1115,25-Oct-25,Maharashtra
+796,Agra,Achhnera,Tomato,Other,Non-FAQ,913,1287,1130,25-Oct-25,Uttar Pradesh
+797,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,992,1304,1146,26-Oct-25,Rajasthan
+798,Pune,Pune,Tomato,Other,Non-FAQ,1020,1341,1153,26-Oct-25,Maharashtra
+799,Agra,Achhnera,Tomato,Other,Non-FAQ,892,1293,1099,26-Oct-25,Uttar Pradesh
+800,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,905,1239,1050,27-Oct-25,Rajasthan
+801,Pune,Pune,Tomato,Other,Non-FAQ,932,1342,1149,27-Oct-25,Maharashtra
+802,Agra,Achhnera,Tomato,Other,Non-FAQ,863,1203,1066,27-Oct-25,Uttar Pradesh
+803,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,957,1363,1097,28-Oct-25,Rajasthan
+804,Pune,Pune,Tomato,Other,Non-FAQ,1035,1346,1163,28-Oct-25,Maharashtra
+805,Agra,Achhnera,Tomato,Other,Non-FAQ,886,1288,1069,28-Oct-25,Uttar Pradesh
+806,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1008,1422,1142,29-Oct-25,Rajasthan
+807,Pune,Pune,Tomato,Other,Non-FAQ,958,1285,1115,29-Oct-25,Maharashtra
+808,Agra,Achhnera,Tomato,Other,Non-FAQ,916,1344,1093,29-Oct-25,Uttar Pradesh
+809,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,901,1348,1080,30-Oct-25,Rajasthan
+810,Pune,Pune,Tomato,Other,Non-FAQ,964,1294,1096,30-Oct-25,Maharashtra
+811,Agra,Achhnera,Tomato,Other,Non-FAQ,963,1290,1122,30-Oct-25,Uttar Pradesh
+812,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,934,1338,1156,31-Oct-25,Rajasthan
+813,Pune,Pune,Tomato,Other,Non-FAQ,910,1299,1073,31-Oct-25,Maharashtra
+814,Agra,Achhnera,Tomato,Other,Non-FAQ,954,1260,1078,31-Oct-25,Uttar Pradesh
+815,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,985,1271,1127,01-Nov-25,Rajasthan
+816,Pune,Pune,Tomato,Other,Non-FAQ,912,1335,1085,01-Nov-25,Maharashtra
+817,Agra,Achhnera,Tomato,Other,Non-FAQ,992,1292,1136,01-Nov-25,Uttar Pradesh
+818,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1006,1432,1167,02-Nov-25,Rajasthan
+819,Pune,Pune,Tomato,Other,Non-FAQ,996,1332,1185,02-Nov-25,Maharashtra
+820,Agra,Achhnera,Tomato,Other,Non-FAQ,970,1247,1115,02-Nov-25,Uttar Pradesh
+821,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1012,1262,1134,03-Nov-25,Rajasthan
+822,Pune,Pune,Tomato,Other,Non-FAQ,967,1341,1112,03-Nov-25,Maharashtra
+823,Agra,Achhnera,Tomato,Other,Non-FAQ,991,1356,1105,03-Nov-25,Uttar Pradesh
+824,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1024,1323,1165,04-Nov-25,Rajasthan
+825,Pune,Pune,Tomato,Other,Non-FAQ,811,1211,998,04-Nov-25,Maharashtra
+826,Agra,Achhnera,Tomato,Other,Non-FAQ,943,1286,1072,04-Nov-25,Uttar Pradesh
+827,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,932,1247,1067,05-Nov-25,Rajasthan
+828,Pune,Pune,Tomato,Other,Non-FAQ,989,1310,1124,05-Nov-25,Maharashtra
+829,Agra,Achhnera,Tomato,Other,Non-FAQ,987,1383,1136,05-Nov-25,Uttar Pradesh
+830,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,981,1327,1131,06-Nov-25,Rajasthan
+831,Pune,Pune,Tomato,Other,Non-FAQ,988,1375,1141,06-Nov-25,Maharashtra
+832,Agra,Achhnera,Tomato,Other,Non-FAQ,925,1315,1128,06-Nov-25,Uttar Pradesh
+833,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,968,1355,1105,07-Nov-25,Rajasthan
+834,Pune,Pune,Tomato,Other,Non-FAQ,889,1257,1064,07-Nov-25,Maharashtra
+835,Agra,Achhnera,Tomato,Other,Non-FAQ,965,1254,1132,07-Nov-25,Uttar Pradesh
+836,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1228,1084,08-Nov-25,Rajasthan
+837,Pune,Pune,Tomato,Other,Non-FAQ,994,1297,1121,08-Nov-25,Maharashtra
+838,Agra,Achhnera,Tomato,Other,Non-FAQ,1020,1336,1136,08-Nov-25,Uttar Pradesh
+839,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,917,1367,1145,09-Nov-25,Rajasthan
+840,Pune,Pune,Tomato,Other,Non-FAQ,940,1240,1079,09-Nov-25,Maharashtra
+841,Agra,Achhnera,Tomato,Other,Non-FAQ,943,1347,1079,09-Nov-25,Uttar Pradesh
+842,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,872,1223,1065,10-Nov-25,Rajasthan
+843,Pune,Pune,Tomato,Other,Non-FAQ,876,1272,1094,10-Nov-25,Maharashtra
+844,Agra,Achhnera,Tomato,Other,Non-FAQ,938,1194,1075,10-Nov-25,Uttar Pradesh
+845,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,993,1391,1161,11-Nov-25,Rajasthan
+846,Pune,Pune,Tomato,Other,Non-FAQ,1053,1312,1178,11-Nov-25,Maharashtra
+847,Agra,Achhnera,Tomato,Other,Non-FAQ,928,1306,1098,11-Nov-25,Uttar Pradesh
+848,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,957,1376,1110,12-Nov-25,Rajasthan
+849,Pune,Pune,Tomato,Other,Non-FAQ,998,1347,1157,12-Nov-25,Maharashtra
+850,Agra,Achhnera,Tomato,Other,Non-FAQ,913,1219,1071,12-Nov-25,Uttar Pradesh
+851,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,928,1246,1077,13-Nov-25,Rajasthan
+852,Pune,Pune,Tomato,Other,Non-FAQ,921,1296,1150,13-Nov-25,Maharashtra
+853,Agra,Achhnera,Tomato,Other,Non-FAQ,921,1231,1102,13-Nov-25,Uttar Pradesh
+854,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,964,1244,1106,14-Nov-25,Rajasthan
+855,Pune,Pune,Tomato,Other,Non-FAQ,1008,1293,1148,14-Nov-25,Maharashtra
+856,Agra,Achhnera,Tomato,Other,Non-FAQ,996,1421,1143,14-Nov-25,Uttar Pradesh
+857,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,948,1292,1059,15-Nov-25,Rajasthan
+858,Pune,Pune,Tomato,Other,Non-FAQ,930,1306,1131,15-Nov-25,Maharashtra
+859,Agra,Achhnera,Tomato,Other,Non-FAQ,965,1366,1130,15-Nov-25,Uttar Pradesh
+860,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,885,1295,1066,16-Nov-25,Rajasthan
+861,Pune,Pune,Tomato,Other,Non-FAQ,936,1293,1093,16-Nov-25,Maharashtra
+862,Agra,Achhnera,Tomato,Other,Non-FAQ,913,1265,1132,16-Nov-25,Uttar Pradesh
+863,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,967,1228,1112,17-Nov-25,Rajasthan
+864,Pune,Pune,Tomato,Other,Non-FAQ,974,1322,1091,17-Nov-25,Maharashtra
+865,Agra,Achhnera,Tomato,Other,Non-FAQ,985,1296,1142,17-Nov-25,Uttar Pradesh
+866,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,904,1243,1114,18-Nov-25,Rajasthan
+867,Pune,Pune,Tomato,Other,Non-FAQ,948,1370,1117,18-Nov-25,Maharashtra
+868,Agra,Achhnera,Tomato,Other,Non-FAQ,899,1339,1083,18-Nov-25,Uttar Pradesh
+869,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1030,1353,1197,19-Nov-25,Rajasthan
+870,Pune,Pune,Tomato,Other,Non-FAQ,978,1351,1146,19-Nov-25,Maharashtra
+871,Agra,Achhnera,Tomato,Other,Non-FAQ,1006,1282,1137,19-Nov-25,Uttar Pradesh
+872,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,945,1379,1114,20-Nov-25,Rajasthan
+873,Pune,Pune,Tomato,Other,Non-FAQ,996,1447,1161,20-Nov-25,Maharashtra
+874,Agra,Achhnera,Tomato,Other,Non-FAQ,908,1281,1122,20-Nov-25,Uttar Pradesh
+875,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1219,1105,21-Nov-25,Rajasthan
+876,Pune,Pune,Tomato,Other,Non-FAQ,906,1322,1117,21-Nov-25,Maharashtra
+877,Agra,Achhnera,Tomato,Other,Non-FAQ,911,1281,1120,21-Nov-25,Uttar Pradesh
+878,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1025,1359,1149,22-Nov-25,Rajasthan
+879,Pune,Pune,Tomato,Other,Non-FAQ,1036,1421,1164,22-Nov-25,Maharashtra
+880,Agra,Achhnera,Tomato,Other,Non-FAQ,905,1317,1090,22-Nov-25,Uttar Pradesh
+881,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,984,1348,1109,23-Nov-25,Rajasthan
+882,Pune,Pune,Tomato,Other,Non-FAQ,987,1393,1145,23-Nov-25,Maharashtra
+883,Agra,Achhnera,Tomato,Other,Non-FAQ,1009,1290,1171,23-Nov-25,Uttar Pradesh
+884,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,964,1259,1124,24-Nov-25,Rajasthan
+885,Pune,Pune,Tomato,Other,Non-FAQ,898,1195,1056,24-Nov-25,Maharashtra
+886,Agra,Achhnera,Tomato,Other,Non-FAQ,886,1260,1107,24-Nov-25,Uttar Pradesh
+887,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,964,1335,1156,25-Nov-25,Rajasthan
+888,Pune,Pune,Tomato,Other,Non-FAQ,915,1243,1063,25-Nov-25,Maharashtra
+889,Agra,Achhnera,Tomato,Other,Non-FAQ,871,1193,1079,25-Nov-25,Uttar Pradesh
+890,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,968,1292,1139,26-Nov-25,Rajasthan
+891,Pune,Pune,Tomato,Other,Non-FAQ,1014,1299,1134,26-Nov-25,Maharashtra
+892,Agra,Achhnera,Tomato,Other,Non-FAQ,905,1262,1096,26-Nov-25,Uttar Pradesh
+893,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,876,1267,1067,27-Nov-25,Rajasthan
+894,Pune,Pune,Tomato,Other,Non-FAQ,986,1327,1121,27-Nov-25,Maharashtra
+895,Agra,Achhnera,Tomato,Other,Non-FAQ,960,1263,1076,27-Nov-25,Uttar Pradesh
+896,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,937,1265,1067,28-Nov-25,Rajasthan
+897,Pune,Pune,Tomato,Other,Non-FAQ,857,1289,1063,28-Nov-25,Maharashtra
+898,Agra,Achhnera,Tomato,Other,Non-FAQ,961,1229,1097,28-Nov-25,Uttar Pradesh
+899,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,991,1263,1122,29-Nov-25,Rajasthan
+900,Pune,Pune,Tomato,Other,Non-FAQ,1000,1353,1154,29-Nov-25,Maharashtra
+901,Agra,Achhnera,Tomato,Other,Non-FAQ,949,1310,1100,29-Nov-25,Uttar Pradesh
+902,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,968,1240,1114,30-Nov-25,Rajasthan
+903,Pune,Pune,Tomato,Other,Non-FAQ,892,1266,1100,30-Nov-25,Maharashtra
+904,Agra,Achhnera,Tomato,Other,Non-FAQ,922,1252,1070,30-Nov-25,Uttar Pradesh
+905,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,973,1436,1169,01-Dec-25,Rajasthan
+906,Pune,Pune,Tomato,Other,Non-FAQ,884,1336,1079,01-Dec-25,Maharashtra
+907,Agra,Achhnera,Tomato,Other,Non-FAQ,859,1178,1028,01-Dec-25,Uttar Pradesh
+908,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,976,1312,1143,02-Dec-25,Rajasthan
+909,Pune,Pune,Tomato,Other,Non-FAQ,882,1335,1099,02-Dec-25,Maharashtra
+910,Agra,Achhnera,Tomato,Other,Non-FAQ,941,1395,1129,02-Dec-25,Uttar Pradesh
+911,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,947,1323,1134,03-Dec-25,Rajasthan
+912,Pune,Pune,Tomato,Other,Non-FAQ,889,1257,1079,03-Dec-25,Maharashtra
+913,Agra,Achhnera,Tomato,Other,Non-FAQ,994,1384,1134,03-Dec-25,Uttar Pradesh
+914,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,944,1297,1104,04-Dec-25,Rajasthan
+915,Pune,Pune,Tomato,Other,Non-FAQ,1016,1420,1150,04-Dec-25,Maharashtra
+916,Agra,Achhnera,Tomato,Other,Non-FAQ,957,1222,1092,04-Dec-25,Uttar Pradesh
+917,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,938,1179,1053,05-Dec-25,Rajasthan
+918,Pune,Pune,Tomato,Other,Non-FAQ,917,1262,1062,05-Dec-25,Maharashtra
+919,Agra,Achhnera,Tomato,Other,Non-FAQ,1011,1327,1175,05-Dec-25,Uttar Pradesh
+920,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1010,1258,1124,06-Dec-25,Rajasthan
+921,Pune,Pune,Tomato,Other,Non-FAQ,948,1268,1062,06-Dec-25,Maharashtra
+922,Agra,Achhnera,Tomato,Other,Non-FAQ,896,1346,1121,06-Dec-25,Uttar Pradesh
+923,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,988,1308,1153,07-Dec-25,Rajasthan
+924,Pune,Pune,Tomato,Other,Non-FAQ,954,1263,1101,07-Dec-25,Maharashtra
+925,Agra,Achhnera,Tomato,Other,Non-FAQ,880,1277,1056,07-Dec-25,Uttar Pradesh
+926,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,919,1240,1070,08-Dec-25,Rajasthan
+927,Pune,Pune,Tomato,Other,Non-FAQ,952,1231,1081,08-Dec-25,Maharashtra
+928,Agra,Achhnera,Tomato,Other,Non-FAQ,919,1362,1117,08-Dec-25,Uttar Pradesh
+929,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1001,1312,1118,09-Dec-25,Rajasthan
+930,Pune,Pune,Tomato,Other,Non-FAQ,950,1303,1084,09-Dec-25,Maharashtra
+931,Agra,Achhnera,Tomato,Other,Non-FAQ,957,1388,1139,09-Dec-25,Uttar Pradesh
+932,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1042,1450,1176,10-Dec-25,Rajasthan
+933,Pune,Pune,Tomato,Other,Non-FAQ,994,1416,1178,10-Dec-25,Maharashtra
+934,Agra,Achhnera,Tomato,Other,Non-FAQ,953,1413,1147,10-Dec-25,Uttar Pradesh
+935,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,924,1311,1104,11-Dec-25,Rajasthan
+936,Pune,Pune,Tomato,Other,Non-FAQ,887,1183,1074,11-Dec-25,Maharashtra
+937,Agra,Achhnera,Tomato,Other,Non-FAQ,1025,1315,1162,11-Dec-25,Uttar Pradesh
+938,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,994,1375,1159,12-Dec-25,Rajasthan
+939,Pune,Pune,Tomato,Other,Non-FAQ,863,1286,1076,12-Dec-25,Maharashtra
+940,Agra,Achhnera,Tomato,Other,Non-FAQ,973,1407,1133,12-Dec-25,Uttar Pradesh
+941,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,856,1209,1039,13-Dec-25,Rajasthan
+942,Pune,Pune,Tomato,Other,Non-FAQ,887,1357,1095,13-Dec-25,Maharashtra
+943,Agra,Achhnera,Tomato,Other,Non-FAQ,956,1285,1134,13-Dec-25,Uttar Pradesh
+944,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1013,1420,1182,14-Dec-25,Rajasthan
+945,Pune,Pune,Tomato,Other,Non-FAQ,929,1221,1060,14-Dec-25,Maharashtra
+946,Agra,Achhnera,Tomato,Other,Non-FAQ,977,1420,1146,14-Dec-25,Uttar Pradesh
+947,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,944,1397,1140,15-Dec-25,Rajasthan
+948,Pune,Pune,Tomato,Other,Non-FAQ,894,1247,1032,15-Dec-25,Maharashtra
+949,Agra,Achhnera,Tomato,Other,Non-FAQ,982,1241,1101,15-Dec-25,Uttar Pradesh
+950,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,906,1269,1126,16-Dec-25,Rajasthan
+951,Pune,Pune,Tomato,Other,Non-FAQ,895,1169,1038,16-Dec-25,Maharashtra
+952,Agra,Achhnera,Tomato,Other,Non-FAQ,980,1388,1147,16-Dec-25,Uttar Pradesh
+953,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,916,1292,1124,17-Dec-25,Rajasthan
+954,Pune,Pune,Tomato,Other,Non-FAQ,997,1283,1144,17-Dec-25,Maharashtra
+955,Agra,Achhnera,Tomato,Other,Non-FAQ,889,1211,1070,17-Dec-25,Uttar Pradesh
+956,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,960,1338,1166,18-Dec-25,Rajasthan
+957,Pune,Pune,Tomato,Other,Non-FAQ,904,1306,1107,18-Dec-25,Maharashtra
+958,Agra,Achhnera,Tomato,Other,Non-FAQ,894,1304,1111,18-Dec-25,Uttar Pradesh
+959,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,967,1269,1113,19-Dec-25,Rajasthan
+960,Pune,Pune,Tomato,Other,Non-FAQ,872,1307,1062,19-Dec-25,Maharashtra
+961,Agra,Achhnera,Tomato,Other,Non-FAQ,897,1280,1110,19-Dec-25,Uttar Pradesh
+962,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1004,1388,1128,20-Dec-25,Rajasthan
+963,Pune,Pune,Tomato,Other,Non-FAQ,942,1375,1158,20-Dec-25,Maharashtra
+964,Agra,Achhnera,Tomato,Other,Non-FAQ,934,1341,1079,20-Dec-25,Uttar Pradesh
+965,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,918,1263,1057,21-Dec-25,Rajasthan
+966,Pune,Pune,Tomato,Other,Non-FAQ,924,1327,1068,21-Dec-25,Maharashtra
+967,Agra,Achhnera,Tomato,Other,Non-FAQ,995,1386,1164,21-Dec-25,Uttar Pradesh
+968,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,907,1261,1078,22-Dec-25,Rajasthan
+969,Pune,Pune,Tomato,Other,Non-FAQ,963,1302,1124,22-Dec-25,Maharashtra
+970,Agra,Achhnera,Tomato,Other,Non-FAQ,919,1217,1099,22-Dec-25,Uttar Pradesh
+971,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,919,1330,1072,23-Dec-25,Rajasthan
+972,Pune,Pune,Tomato,Other,Non-FAQ,913,1233,1102,23-Dec-25,Maharashtra
+973,Agra,Achhnera,Tomato,Other,Non-FAQ,948,1316,1054,23-Dec-25,Uttar Pradesh
+974,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,978,1413,1147,24-Dec-25,Rajasthan
+975,Pune,Pune,Tomato,Other,Non-FAQ,990,1413,1156,24-Dec-25,Maharashtra
+976,Agra,Achhnera,Tomato,Other,Non-FAQ,913,1267,1129,24-Dec-25,Uttar Pradesh
+977,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,994,1278,1109,25-Dec-25,Rajasthan
+978,Pune,Pune,Tomato,Other,Non-FAQ,1014,1354,1134,25-Dec-25,Maharashtra
+979,Agra,Achhnera,Tomato,Other,Non-FAQ,1037,1351,1173,25-Dec-25,Uttar Pradesh
+980,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,946,1333,1132,26-Dec-25,Rajasthan
+981,Pune,Pune,Tomato,Other,Non-FAQ,1024,1386,1144,26-Dec-25,Maharashtra
+982,Agra,Achhnera,Tomato,Other,Non-FAQ,1002,1366,1130,26-Dec-25,Uttar Pradesh
+983,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,919,1313,1149,27-Dec-25,Rajasthan
+984,Pune,Pune,Tomato,Other,Non-FAQ,875,1268,1086,27-Dec-25,Maharashtra
+985,Agra,Achhnera,Tomato,Other,Non-FAQ,950,1303,1131,27-Dec-25,Uttar Pradesh
+986,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,939,1241,1090,28-Dec-25,Rajasthan
+987,Pune,Pune,Tomato,Other,Non-FAQ,957,1416,1151,28-Dec-25,Maharashtra
+988,Agra,Achhnera,Tomato,Other,Non-FAQ,954,1297,1075,28-Dec-25,Uttar Pradesh
+989,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,931,1377,1121,29-Dec-25,Rajasthan
+990,Pune,Pune,Tomato,Other,Non-FAQ,961,1353,1132,29-Dec-25,Maharashtra
+991,Agra,Achhnera,Tomato,Other,Non-FAQ,913,1248,1102,29-Dec-25,Uttar Pradesh
+992,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1007,1376,1131,30-Dec-25,Rajasthan
+993,Pune,Pune,Tomato,Other,Non-FAQ,953,1314,1123,30-Dec-25,Maharashtra
+994,Agra,Achhnera,Tomato,Other,Non-FAQ,966,1325,1126,30-Dec-25,Uttar Pradesh
+995,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1331,1174,31-Dec-25,Rajasthan
+996,Pune,Pune,Tomato,Other,Non-FAQ,958,1246,1119,31-Dec-25,Maharashtra
+997,Agra,Achhnera,Tomato,Other,Non-FAQ,970,1344,1093,31-Dec-25,Uttar Pradesh
+998,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,902,1364,1127,01-Jan-26,Rajasthan
+999,Pune,Pune,Tomato,Other,Non-FAQ,1018,1376,1143,01-Jan-26,Maharashtra
+1000,Agra,Achhnera,Tomato,Other,Non-FAQ,899,1329,1072,01-Jan-26,Uttar Pradesh
+1001,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,965,1378,1130,02-Jan-26,Rajasthan
+1002,Pune,Pune,Tomato,Other,Non-FAQ,894,1314,1058,02-Jan-26,Maharashtra
+1003,Agra,Achhnera,Tomato,Other,Non-FAQ,999,1296,1117,02-Jan-26,Uttar Pradesh
+1004,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,999,1340,1136,03-Jan-26,Rajasthan
+1005,Pune,Pune,Tomato,Other,Non-FAQ,970,1250,1096,03-Jan-26,Maharashtra
+1006,Agra,Achhnera,Tomato,Other,Non-FAQ,968,1368,1158,03-Jan-26,Uttar Pradesh
+1007,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,927,1257,1085,04-Jan-26,Rajasthan
+1008,Pune,Pune,Tomato,Other,Non-FAQ,965,1405,1127,04-Jan-26,Maharashtra
+1009,Agra,Achhnera,Tomato,Other,Non-FAQ,914,1192,1080,04-Jan-26,Uttar Pradesh
+1010,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,990,1285,1167,05-Jan-26,Rajasthan
+1011,Pune,Pune,Tomato,Other,Non-FAQ,1032,1354,1168,05-Jan-26,Maharashtra
+1012,Agra,Achhnera,Tomato,Other,Non-FAQ,996,1277,1110,05-Jan-26,Uttar Pradesh
+1013,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,993,1278,1121,06-Jan-26,Rajasthan
+1014,Pune,Pune,Tomato,Other,Non-FAQ,945,1225,1108,06-Jan-26,Maharashtra
+1015,Agra,Achhnera,Tomato,Other,Non-FAQ,963,1350,1088,06-Jan-26,Uttar Pradesh
+1016,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,971,1325,1112,07-Jan-26,Rajasthan
+1017,Pune,Pune,Tomato,Other,Non-FAQ,935,1273,1079,07-Jan-26,Maharashtra
+1018,Agra,Achhnera,Tomato,Other,Non-FAQ,913,1257,1086,07-Jan-26,Uttar Pradesh
+1019,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,904,1403,1123,08-Jan-26,Rajasthan
+1020,Pune,Pune,Tomato,Other,Non-FAQ,967,1280,1076,08-Jan-26,Maharashtra
+1021,Agra,Achhnera,Tomato,Other,Non-FAQ,941,1259,1101,08-Jan-26,Uttar Pradesh
+1022,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,946,1255,1053,09-Jan-26,Rajasthan
+1023,Pune,Pune,Tomato,Other,Non-FAQ,986,1338,1113,09-Jan-26,Maharashtra
+1024,Agra,Achhnera,Tomato,Other,Non-FAQ,968,1323,1109,09-Jan-26,Uttar Pradesh
+1025,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,987,1271,1103,10-Jan-26,Rajasthan
+1026,Pune,Pune,Tomato,Other,Non-FAQ,919,1286,1083,10-Jan-26,Maharashtra
+1027,Agra,Achhnera,Tomato,Other,Non-FAQ,906,1326,1121,10-Jan-26,Uttar Pradesh
+1028,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,992,1375,1130,11-Jan-26,Rajasthan
+1029,Pune,Pune,Tomato,Other,Non-FAQ,945,1273,1090,11-Jan-26,Maharashtra
+1030,Agra,Achhnera,Tomato,Other,Non-FAQ,962,1344,1082,11-Jan-26,Uttar Pradesh
+1031,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,954,1333,1117,12-Jan-26,Rajasthan
+1032,Pune,Pune,Tomato,Other,Non-FAQ,929,1279,1079,12-Jan-26,Maharashtra
+1033,Agra,Achhnera,Tomato,Other,Non-FAQ,922,1208,1074,12-Jan-26,Uttar Pradesh
+1034,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,979,1327,1153,13-Jan-26,Rajasthan
+1035,Pune,Pune,Tomato,Other,Non-FAQ,997,1260,1130,13-Jan-26,Maharashtra
+1036,Agra,Achhnera,Tomato,Other,Non-FAQ,969,1300,1104,13-Jan-26,Uttar Pradesh
+1037,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,895,1375,1108,14-Jan-26,Rajasthan
+1038,Pune,Pune,Tomato,Other,Non-FAQ,978,1311,1132,14-Jan-26,Maharashtra
+1039,Agra,Achhnera,Tomato,Other,Non-FAQ,928,1349,1092,14-Jan-26,Uttar Pradesh
+1040,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,898,1215,1099,15-Jan-26,Rajasthan
+1041,Pune,Pune,Tomato,Other,Non-FAQ,862,1241,1073,15-Jan-26,Maharashtra
+1042,Agra,Achhnera,Tomato,Other,Non-FAQ,960,1252,1097,15-Jan-26,Uttar Pradesh
+1043,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,926,1248,1085,16-Jan-26,Rajasthan
+1044,Pune,Pune,Tomato,Other,Non-FAQ,964,1249,1094,16-Jan-26,Maharashtra
+1045,Agra,Achhnera,Tomato,Other,Non-FAQ,880,1298,1067,16-Jan-26,Uttar Pradesh
+1046,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,992,1374,1121,17-Jan-26,Rajasthan
+1047,Pune,Pune,Tomato,Other,Non-FAQ,938,1332,1067,17-Jan-26,Maharashtra
+1048,Agra,Achhnera,Tomato,Other,Non-FAQ,879,1345,1088,17-Jan-26,Uttar Pradesh
+1049,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,883,1166,1057,18-Jan-26,Rajasthan
+1050,Pune,Pune,Tomato,Other,Non-FAQ,1029,1333,1203,18-Jan-26,Maharashtra
+1051,Agra,Achhnera,Tomato,Other,Non-FAQ,960,1268,1132,18-Jan-26,Uttar Pradesh
+1052,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,887,1252,1069,19-Jan-26,Rajasthan
+1053,Pune,Pune,Tomato,Other,Non-FAQ,967,1315,1145,19-Jan-26,Maharashtra
+1054,Agra,Achhnera,Tomato,Other,Non-FAQ,919,1268,1125,19-Jan-26,Uttar Pradesh
+1055,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,981,1284,1117,20-Jan-26,Rajasthan
+1056,Pune,Pune,Tomato,Other,Non-FAQ,956,1316,1077,20-Jan-26,Maharashtra
+1057,Agra,Achhnera,Tomato,Other,Non-FAQ,950,1214,1096,20-Jan-26,Uttar Pradesh
+1058,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,940,1382,1152,21-Jan-26,Rajasthan
+1059,Pune,Pune,Tomato,Other,Non-FAQ,894,1192,1082,21-Jan-26,Maharashtra
+1060,Agra,Achhnera,Tomato,Other,Non-FAQ,920,1218,1061,21-Jan-26,Uttar Pradesh
+1061,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1371,1131,22-Jan-26,Rajasthan
+1062,Pune,Pune,Tomato,Other,Non-FAQ,905,1272,1096,22-Jan-26,Maharashtra
+1063,Agra,Achhnera,Tomato,Other,Non-FAQ,952,1246,1063,22-Jan-26,Uttar Pradesh
+1064,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1069,1400,1201,23-Jan-26,Rajasthan
+1065,Pune,Pune,Tomato,Other,Non-FAQ,922,1257,1142,23-Jan-26,Maharashtra
+1066,Agra,Achhnera,Tomato,Other,Non-FAQ,911,1260,1138,23-Jan-26,Uttar Pradesh
+1067,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,936,1215,1077,24-Jan-26,Rajasthan
+1068,Pune,Pune,Tomato,Other,Non-FAQ,961,1361,1097,24-Jan-26,Maharashtra
+1069,Agra,Achhnera,Tomato,Other,Non-FAQ,941,1269,1131,24-Jan-26,Uttar Pradesh
+1070,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,964,1236,1073,25-Jan-26,Rajasthan
+1071,Pune,Pune,Tomato,Other,Non-FAQ,920,1282,1133,25-Jan-26,Maharashtra
+1072,Agra,Achhnera,Tomato,Other,Non-FAQ,933,1343,1102,25-Jan-26,Uttar Pradesh
+1073,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,923,1276,1111,26-Jan-26,Rajasthan
+1074,Pune,Pune,Tomato,Other,Non-FAQ,872,1261,1084,26-Jan-26,Maharashtra
+1075,Agra,Achhnera,Tomato,Other,Non-FAQ,1018,1452,1200,26-Jan-26,Uttar Pradesh
+1076,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,979,1344,1096,27-Jan-26,Rajasthan
+1077,Pune,Pune,Tomato,Other,Non-FAQ,956,1426,1162,27-Jan-26,Maharashtra
+1078,Agra,Achhnera,Tomato,Other,Non-FAQ,958,1329,1111,27-Jan-26,Uttar Pradesh
+1079,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,949,1379,1128,28-Jan-26,Rajasthan
+1080,Pune,Pune,Tomato,Other,Non-FAQ,869,1189,1068,28-Jan-26,Maharashtra
+1081,Agra,Achhnera,Tomato,Other,Non-FAQ,921,1327,1092,28-Jan-26,Uttar Pradesh
+1082,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1008,1325,1129,29-Jan-26,Rajasthan
+1083,Pune,Pune,Tomato,Other,Non-FAQ,978,1243,1110,29-Jan-26,Maharashtra
+1084,Agra,Achhnera,Tomato,Other,Non-FAQ,904,1171,1060,29-Jan-26,Uttar Pradesh
+1085,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1006,1385,1120,30-Jan-26,Rajasthan
+1086,Pune,Pune,Tomato,Other,Non-FAQ,930,1163,1051,30-Jan-26,Maharashtra
+1087,Agra,Achhnera,Tomato,Other,Non-FAQ,970,1362,1101,30-Jan-26,Uttar Pradesh
+1088,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,916,1413,1135,31-Jan-26,Rajasthan
+1089,Pune,Pune,Tomato,Other,Non-FAQ,926,1234,1103,31-Jan-26,Maharashtra
+1090,Agra,Achhnera,Tomato,Other,Non-FAQ,902,1293,1101,31-Jan-26,Uttar Pradesh
+1091,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,938,1364,1132,01-Feb-26,Rajasthan
+1092,Pune,Pune,Tomato,Other,Non-FAQ,987,1390,1118,01-Feb-26,Maharashtra
+1093,Agra,Achhnera,Tomato,Other,Non-FAQ,887,1257,1094,01-Feb-26,Uttar Pradesh
+1094,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,943,1288,1116,02-Feb-26,Rajasthan
+1095,Pune,Pune,Tomato,Other,Non-FAQ,953,1398,1138,02-Feb-26,Maharashtra
+1096,Agra,Achhnera,Tomato,Other,Non-FAQ,956,1333,1080,02-Feb-26,Uttar Pradesh
+1097,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,973,1364,1117,03-Feb-26,Rajasthan
+1098,Pune,Pune,Tomato,Other,Non-FAQ,910,1189,1079,03-Feb-26,Maharashtra
+1099,Agra,Achhnera,Tomato,Other,Non-FAQ,953,1259,1094,03-Feb-26,Uttar Pradesh
+1100,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,848,1123,1019,04-Feb-26,Rajasthan
+1101,Pune,Pune,Tomato,Other,Non-FAQ,898,1273,1083,04-Feb-26,Maharashtra
+1102,Agra,Achhnera,Tomato,Other,Non-FAQ,910,1275,1131,04-Feb-26,Uttar Pradesh
+1103,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,970,1234,1082,05-Feb-26,Rajasthan
+1104,Pune,Pune,Tomato,Other,Non-FAQ,930,1256,1102,05-Feb-26,Maharashtra
+1105,Agra,Achhnera,Tomato,Other,Non-FAQ,896,1275,1104,05-Feb-26,Uttar Pradesh
+1106,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,891,1259,1071,06-Feb-26,Rajasthan
+1107,Pune,Pune,Tomato,Other,Non-FAQ,932,1296,1053,06-Feb-26,Maharashtra
+1108,Agra,Achhnera,Tomato,Other,Non-FAQ,911,1161,1056,06-Feb-26,Uttar Pradesh
+1109,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,972,1328,1107,07-Feb-26,Rajasthan
+1110,Pune,Pune,Tomato,Other,Non-FAQ,991,1306,1108,07-Feb-26,Maharashtra
+1111,Agra,Achhnera,Tomato,Other,Non-FAQ,888,1249,1036,07-Feb-26,Uttar Pradesh
+1112,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,926,1303,1073,08-Feb-26,Rajasthan
+1113,Pune,Pune,Tomato,Other,Non-FAQ,847,1206,1049,08-Feb-26,Maharashtra
+1114,Agra,Achhnera,Tomato,Other,Non-FAQ,963,1287,1093,08-Feb-26,Uttar Pradesh
+1115,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,929,1209,1092,09-Feb-26,Rajasthan
+1116,Pune,Pune,Tomato,Other,Non-FAQ,956,1419,1187,09-Feb-26,Maharashtra
+1117,Agra,Achhnera,Tomato,Other,Non-FAQ,957,1354,1091,09-Feb-26,Uttar Pradesh
+1118,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,923,1412,1142,10-Feb-26,Rajasthan
+1119,Pune,Pune,Tomato,Other,Non-FAQ,988,1373,1108,10-Feb-26,Maharashtra
+1120,Agra,Achhnera,Tomato,Other,Non-FAQ,931,1173,1061,10-Feb-26,Uttar Pradesh
+1121,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,958,1381,1146,11-Feb-26,Rajasthan
+1122,Pune,Pune,Tomato,Other,Non-FAQ,845,1189,1024,11-Feb-26,Maharashtra
+1123,Agra,Achhnera,Tomato,Other,Non-FAQ,952,1268,1114,11-Feb-26,Uttar Pradesh
+1124,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,867,1211,1050,12-Feb-26,Rajasthan
+1125,Pune,Pune,Tomato,Other,Non-FAQ,997,1266,1111,12-Feb-26,Maharashtra
+1126,Agra,Achhnera,Tomato,Other,Non-FAQ,919,1202,1073,12-Feb-26,Uttar Pradesh
+1127,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,951,1328,1095,13-Feb-26,Rajasthan
+1128,Pune,Pune,Tomato,Other,Non-FAQ,940,1318,1085,13-Feb-26,Maharashtra
+1129,Agra,Achhnera,Tomato,Other,Non-FAQ,972,1357,1125,13-Feb-26,Uttar Pradesh
+1130,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,905,1355,1100,14-Feb-26,Rajasthan
+1131,Pune,Pune,Tomato,Other,Non-FAQ,941,1237,1092,14-Feb-26,Maharashtra
+1132,Agra,Achhnera,Tomato,Other,Non-FAQ,899,1236,1085,14-Feb-26,Uttar Pradesh
+1133,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,959,1248,1111,15-Feb-26,Rajasthan
+1134,Pune,Pune,Tomato,Other,Non-FAQ,947,1405,1141,15-Feb-26,Maharashtra
+1135,Agra,Achhnera,Tomato,Other,Non-FAQ,983,1388,1119,15-Feb-26,Uttar Pradesh
+1136,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,948,1289,1108,16-Feb-26,Rajasthan
+1137,Pune,Pune,Tomato,Other,Non-FAQ,922,1360,1089,16-Feb-26,Maharashtra
+1138,Agra,Achhnera,Tomato,Other,Non-FAQ,937,1262,1105,16-Feb-26,Uttar Pradesh
+1139,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,874,1328,1091,17-Feb-26,Rajasthan
+1140,Pune,Pune,Tomato,Other,Non-FAQ,981,1292,1120,17-Feb-26,Maharashtra
+1141,Agra,Achhnera,Tomato,Other,Non-FAQ,990,1355,1133,17-Feb-26,Uttar Pradesh
+1142,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,995,1300,1118,18-Feb-26,Rajasthan
+1143,Pune,Pune,Tomato,Other,Non-FAQ,953,1336,1078,18-Feb-26,Maharashtra
+1144,Agra,Achhnera,Tomato,Other,Non-FAQ,938,1407,1158,18-Feb-26,Uttar Pradesh
+1145,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,913,1304,1127,19-Feb-26,Rajasthan
+1146,Pune,Pune,Tomato,Other,Non-FAQ,916,1340,1133,19-Feb-26,Maharashtra
+1147,Agra,Achhnera,Tomato,Other,Non-FAQ,945,1348,1128,19-Feb-26,Uttar Pradesh
+1148,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,922,1250,1096,20-Feb-26,Rajasthan
+1149,Pune,Pune,Tomato,Other,Non-FAQ,954,1392,1131,20-Feb-26,Maharashtra
+1150,Agra,Achhnera,Tomato,Other,Non-FAQ,924,1389,1127,20-Feb-26,Uttar Pradesh
+1151,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,891,1280,1047,21-Feb-26,Rajasthan
+1152,Pune,Pune,Tomato,Other,Non-FAQ,938,1234,1057,21-Feb-26,Maharashtra
+1153,Agra,Achhnera,Tomato,Other,Non-FAQ,942,1251,1106,21-Feb-26,Uttar Pradesh
+1154,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,918,1293,1097,22-Feb-26,Rajasthan
+1155,Pune,Pune,Tomato,Other,Non-FAQ,917,1313,1143,22-Feb-26,Maharashtra
+1156,Agra,Achhnera,Tomato,Other,Non-FAQ,920,1227,1046,22-Feb-26,Uttar Pradesh
+1157,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,855,1200,1053,23-Feb-26,Rajasthan
+1158,Pune,Pune,Tomato,Other,Non-FAQ,945,1288,1062,23-Feb-26,Maharashtra
+1159,Agra,Achhnera,Tomato,Other,Non-FAQ,1000,1249,1115,23-Feb-26,Uttar Pradesh
+1160,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,960,1408,1136,24-Feb-26,Rajasthan
+1161,Pune,Pune,Tomato,Other,Non-FAQ,945,1328,1107,24-Feb-26,Maharashtra
+1162,Agra,Achhnera,Tomato,Other,Non-FAQ,1001,1342,1186,24-Feb-26,Uttar Pradesh
+1163,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1015,1269,1132,25-Feb-26,Rajasthan
+1164,Pune,Pune,Tomato,Other,Non-FAQ,941,1278,1126,25-Feb-26,Maharashtra
+1165,Agra,Achhnera,Tomato,Other,Non-FAQ,979,1354,1119,25-Feb-26,Uttar Pradesh
+1166,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,911,1358,1112,26-Feb-26,Rajasthan
+1167,Pune,Pune,Tomato,Other,Non-FAQ,933,1190,1077,26-Feb-26,Maharashtra
+1168,Agra,Achhnera,Tomato,Other,Non-FAQ,1018,1380,1166,26-Feb-26,Uttar Pradesh
+1169,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,957,1263,1082,27-Feb-26,Rajasthan
+1170,Pune,Pune,Tomato,Other,Non-FAQ,993,1263,1131,27-Feb-26,Maharashtra
+1171,Agra,Achhnera,Tomato,Other,Non-FAQ,909,1328,1084,27-Feb-26,Uttar Pradesh
+1172,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,897,1345,1096,28-Feb-26,Rajasthan
+1173,Pune,Pune,Tomato,Other,Non-FAQ,855,1290,1062,28-Feb-26,Maharashtra
+1174,Agra,Achhnera,Tomato,Other,Non-FAQ,942,1306,1055,28-Feb-26,Uttar Pradesh
+1175,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,856,1243,1071,01-Mar-26,Rajasthan
+1176,Pune,Pune,Tomato,Other,Non-FAQ,909,1215,1094,01-Mar-26,Maharashtra
+1177,Agra,Achhnera,Tomato,Other,Non-FAQ,977,1214,1103,01-Mar-26,Uttar Pradesh
+1178,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,967,1398,1128,02-Mar-26,Rajasthan
+1179,Pune,Pune,Tomato,Other,Non-FAQ,964,1338,1097,02-Mar-26,Maharashtra
+1180,Agra,Achhnera,Tomato,Other,Non-FAQ,969,1239,1103,02-Mar-26,Uttar Pradesh
+1181,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,966,1396,1119,03-Mar-26,Rajasthan
+1182,Pune,Pune,Tomato,Other,Non-FAQ,954,1427,1155,03-Mar-26,Maharashtra
+1183,Agra,Achhnera,Tomato,Other,Non-FAQ,901,1238,1118,03-Mar-26,Uttar Pradesh
+1184,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1331,1141,04-Mar-26,Rajasthan
+1185,Pune,Pune,Tomato,Other,Non-FAQ,959,1337,1103,04-Mar-26,Maharashtra
+1186,Agra,Achhnera,Tomato,Other,Non-FAQ,973,1327,1102,04-Mar-26,Uttar Pradesh
+1187,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1026,1346,1152,05-Mar-26,Rajasthan
+1188,Pune,Pune,Tomato,Other,Non-FAQ,884,1226,1091,05-Mar-26,Maharashtra
+1189,Agra,Achhnera,Tomato,Other,Non-FAQ,917,1317,1130,05-Mar-26,Uttar Pradesh
+1190,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,863,1209,1043,06-Mar-26,Rajasthan
+1191,Pune,Pune,Tomato,Other,Non-FAQ,934,1305,1091,06-Mar-26,Maharashtra
+1192,Agra,Achhnera,Tomato,Other,Non-FAQ,929,1299,1042,06-Mar-26,Uttar Pradesh
+1193,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,877,1264,1079,07-Mar-26,Rajasthan
+1194,Pune,Pune,Tomato,Other,Non-FAQ,1020,1319,1155,07-Mar-26,Maharashtra
+1195,Agra,Achhnera,Tomato,Other,Non-FAQ,910,1246,1037,07-Mar-26,Uttar Pradesh
+1196,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,931,1296,1113,08-Mar-26,Rajasthan
+1197,Pune,Pune,Tomato,Other,Non-FAQ,892,1278,1044,08-Mar-26,Maharashtra
+1198,Agra,Achhnera,Tomato,Other,Non-FAQ,915,1312,1080,08-Mar-26,Uttar Pradesh
+1199,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,925,1217,1076,09-Mar-26,Rajasthan
+1200,Pune,Pune,Tomato,Other,Non-FAQ,964,1373,1120,09-Mar-26,Maharashtra
+1201,Agra,Achhnera,Tomato,Other,Non-FAQ,881,1160,1041,09-Mar-26,Uttar Pradesh
+1202,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,965,1331,1110,10-Mar-26,Rajasthan
+1203,Pune,Pune,Tomato,Other,Non-FAQ,982,1316,1108,10-Mar-26,Maharashtra
+1204,Agra,Achhnera,Tomato,Other,Non-FAQ,839,1160,1048,10-Mar-26,Uttar Pradesh
+1205,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,943,1316,1076,11-Mar-26,Rajasthan
+1206,Pune,Pune,Tomato,Other,Non-FAQ,931,1418,1162,11-Mar-26,Maharashtra
+1207,Agra,Achhnera,Tomato,Other,Non-FAQ,948,1238,1119,11-Mar-26,Uttar Pradesh
+1208,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,993,1270,1130,12-Mar-26,Rajasthan
+1209,Pune,Pune,Tomato,Other,Non-FAQ,925,1328,1107,12-Mar-26,Maharashtra
+1210,Agra,Achhnera,Tomato,Other,Non-FAQ,879,1249,1095,12-Mar-26,Uttar Pradesh
+1211,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,978,1286,1148,13-Mar-26,Rajasthan
+1212,Pune,Pune,Tomato,Other,Non-FAQ,986,1387,1116,13-Mar-26,Maharashtra
+1213,Agra,Achhnera,Tomato,Other,Non-FAQ,857,1244,1026,13-Mar-26,Uttar Pradesh
+1214,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,889,1266,1067,14-Mar-26,Rajasthan
+1215,Pune,Pune,Tomato,Other,Non-FAQ,891,1289,1095,14-Mar-26,Maharashtra
+1216,Agra,Achhnera,Tomato,Other,Non-FAQ,961,1347,1146,14-Mar-26,Uttar Pradesh
+1217,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,848,1201,1046,15-Mar-26,Rajasthan
+1218,Pune,Pune,Tomato,Other,Non-FAQ,959,1295,1071,15-Mar-26,Maharashtra
+1219,Agra,Achhnera,Tomato,Other,Non-FAQ,911,1223,1089,15-Mar-26,Uttar Pradesh
+1220,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,888,1287,1082,16-Mar-26,Rajasthan
+1221,Pune,Pune,Tomato,Other,Non-FAQ,908,1314,1072,16-Mar-26,Maharashtra
+1222,Agra,Achhnera,Tomato,Other,Non-FAQ,946,1369,1135,16-Mar-26,Uttar Pradesh
+1223,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,897,1262,1120,17-Mar-26,Rajasthan
+1224,Pune,Pune,Tomato,Other,Non-FAQ,1011,1377,1149,17-Mar-26,Maharashtra
+1225,Agra,Achhnera,Tomato,Other,Non-FAQ,977,1357,1141,17-Mar-26,Uttar Pradesh
+1226,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,996,1311,1165,18-Mar-26,Rajasthan
+1227,Pune,Pune,Tomato,Other,Non-FAQ,923,1340,1104,18-Mar-26,Maharashtra
+1228,Agra,Achhnera,Tomato,Other,Non-FAQ,927,1279,1112,18-Mar-26,Uttar Pradesh
+1229,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1032,1433,1188,19-Mar-26,Rajasthan
+1230,Pune,Pune,Tomato,Other,Non-FAQ,900,1350,1088,19-Mar-26,Maharashtra
+1231,Agra,Achhnera,Tomato,Other,Non-FAQ,949,1254,1106,19-Mar-26,Uttar Pradesh
+1232,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,929,1242,1102,20-Mar-26,Rajasthan
+1233,Pune,Pune,Tomato,Other,Non-FAQ,943,1257,1104,20-Mar-26,Maharashtra
+1234,Agra,Achhnera,Tomato,Other,Non-FAQ,948,1232,1062,20-Mar-26,Uttar Pradesh
+1235,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,924,1277,1072,21-Mar-26,Rajasthan
+1236,Pune,Pune,Tomato,Other,Non-FAQ,939,1298,1119,21-Mar-26,Maharashtra
+1237,Agra,Achhnera,Tomato,Other,Non-FAQ,932,1290,1122,21-Mar-26,Uttar Pradesh
+1238,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1005,1311,1128,22-Mar-26,Rajasthan
+1239,Pune,Pune,Tomato,Other,Non-FAQ,965,1351,1127,22-Mar-26,Maharashtra
+1240,Agra,Achhnera,Tomato,Other,Non-FAQ,891,1300,1064,22-Mar-26,Uttar Pradesh
+1241,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,910,1346,1117,23-Mar-26,Rajasthan
+1242,Pune,Pune,Tomato,Other,Non-FAQ,969,1254,1112,23-Mar-26,Maharashtra
+1243,Agra,Achhnera,Tomato,Other,Non-FAQ,903,1232,1104,23-Mar-26,Uttar Pradesh
+1244,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,878,1318,1089,24-Mar-26,Rajasthan
+1245,Pune,Pune,Tomato,Other,Non-FAQ,957,1335,1135,24-Mar-26,Maharashtra
+1246,Agra,Achhnera,Tomato,Other,Non-FAQ,911,1365,1099,24-Mar-26,Uttar Pradesh
+1247,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,957,1201,1089,25-Mar-26,Rajasthan
+1248,Pune,Pune,Tomato,Other,Non-FAQ,976,1313,1093,25-Mar-26,Maharashtra
+1249,Agra,Achhnera,Tomato,Other,Non-FAQ,921,1236,1057,25-Mar-26,Uttar Pradesh
+1250,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,927,1290,1049,26-Mar-26,Rajasthan
+1251,Pune,Pune,Tomato,Other,Non-FAQ,957,1294,1152,26-Mar-26,Maharashtra
+1252,Agra,Achhnera,Tomato,Other,Non-FAQ,908,1370,1103,26-Mar-26,Uttar Pradesh
+1253,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,878,1248,1084,27-Mar-26,Rajasthan
+1254,Pune,Pune,Tomato,Other,Non-FAQ,978,1236,1088,27-Mar-26,Maharashtra
+1255,Agra,Achhnera,Tomato,Other,Non-FAQ,896,1208,1075,27-Mar-26,Uttar Pradesh
+1256,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,853,1191,1061,28-Mar-26,Rajasthan
+1257,Pune,Pune,Tomato,Other,Non-FAQ,929,1210,1074,28-Mar-26,Maharashtra
+1258,Agra,Achhnera,Tomato,Other,Non-FAQ,906,1266,1075,28-Mar-26,Uttar Pradesh
+1259,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1003,1292,1147,29-Mar-26,Rajasthan
+1260,Pune,Pune,Tomato,Other,Non-FAQ,972,1321,1085,29-Mar-26,Maharashtra
+1261,Agra,Achhnera,Tomato,Other,Non-FAQ,955,1251,1135,29-Mar-26,Uttar Pradesh
+1262,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,936,1214,1079,30-Mar-26,Rajasthan
+1263,Pune,Pune,Tomato,Other,Non-FAQ,948,1199,1074,30-Mar-26,Maharashtra
+1264,Agra,Achhnera,Tomato,Other,Non-FAQ,948,1407,1148,30-Mar-26,Uttar Pradesh
+1265,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,961,1279,1114,31-Mar-26,Rajasthan
+1266,Pune,Pune,Tomato,Other,Non-FAQ,926,1364,1133,31-Mar-26,Maharashtra
+1267,Agra,Achhnera,Tomato,Other,Non-FAQ,909,1285,1083,31-Mar-26,Uttar Pradesh
+1268,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,894,1347,1103,01-Apr-26,Rajasthan
+1269,Pune,Pune,Tomato,Other,Non-FAQ,924,1278,1047,01-Apr-26,Maharashtra
+1270,Agra,Achhnera,Tomato,Other,Non-FAQ,948,1223,1069,01-Apr-26,Uttar Pradesh
+1271,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,938,1210,1094,02-Apr-26,Rajasthan
+1272,Pune,Pune,Tomato,Other,Non-FAQ,897,1288,1109,02-Apr-26,Maharashtra
+1273,Agra,Achhnera,Tomato,Other,Non-FAQ,930,1299,1124,02-Apr-26,Uttar Pradesh
+1274,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,982,1241,1121,03-Apr-26,Rajasthan
+1275,Pune,Pune,Tomato,Other,Non-FAQ,964,1437,1157,03-Apr-26,Maharashtra
+1276,Agra,Achhnera,Tomato,Other,Non-FAQ,865,1281,1060,03-Apr-26,Uttar Pradesh
+1277,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,856,1199,1062,04-Apr-26,Rajasthan
+1278,Pune,Pune,Tomato,Other,Non-FAQ,916,1271,1102,04-Apr-26,Maharashtra
+1279,Agra,Achhnera,Tomato,Other,Non-FAQ,963,1433,1150,04-Apr-26,Uttar Pradesh
+1280,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,985,1401,1159,05-Apr-26,Rajasthan
+1281,Pune,Pune,Tomato,Other,Non-FAQ,914,1303,1119,05-Apr-26,Maharashtra
+1282,Agra,Achhnera,Tomato,Other,Non-FAQ,878,1190,1073,05-Apr-26,Uttar Pradesh
+1283,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,977,1322,1104,06-Apr-26,Rajasthan
+1284,Pune,Pune,Tomato,Other,Non-FAQ,989,1323,1131,06-Apr-26,Maharashtra
+1285,Agra,Achhnera,Tomato,Other,Non-FAQ,901,1243,1039,06-Apr-26,Uttar Pradesh
+1286,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,987,1364,1131,07-Apr-26,Rajasthan
+1287,Pune,Pune,Tomato,Other,Non-FAQ,882,1252,1098,07-Apr-26,Maharashtra
+1288,Agra,Achhnera,Tomato,Other,Non-FAQ,967,1282,1162,07-Apr-26,Uttar Pradesh
+1289,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,884,1235,1067,08-Apr-26,Rajasthan
+1290,Pune,Pune,Tomato,Other,Non-FAQ,906,1243,1110,08-Apr-26,Maharashtra
+1291,Agra,Achhnera,Tomato,Other,Non-FAQ,934,1399,1157,08-Apr-26,Uttar Pradesh
+1292,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,957,1310,1151,09-Apr-26,Rajasthan
+1293,Pune,Pune,Tomato,Other,Non-FAQ,900,1283,1057,09-Apr-26,Maharashtra
+1294,Agra,Achhnera,Tomato,Other,Non-FAQ,932,1351,1124,09-Apr-26,Uttar Pradesh
+1295,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,995,1377,1107,10-Apr-26,Rajasthan
+1296,Pune,Pune,Tomato,Other,Non-FAQ,978,1305,1151,10-Apr-26,Maharashtra
+1297,Agra,Achhnera,Tomato,Other,Non-FAQ,951,1276,1106,10-Apr-26,Uttar Pradesh
+1298,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,997,1312,1150,11-Apr-26,Rajasthan
+1299,Pune,Pune,Tomato,Other,Non-FAQ,919,1397,1135,11-Apr-26,Maharashtra
+1300,Agra,Achhnera,Tomato,Other,Non-FAQ,983,1286,1119,11-Apr-26,Uttar Pradesh
+1301,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,919,1285,1056,12-Apr-26,Rajasthan
+1302,Pune,Pune,Tomato,Other,Non-FAQ,944,1318,1104,12-Apr-26,Maharashtra
+1303,Agra,Achhnera,Tomato,Other,Non-FAQ,827,1193,1019,12-Apr-26,Uttar Pradesh
+1304,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,951,1194,1059,13-Apr-26,Rajasthan
+1305,Pune,Pune,Tomato,Other,Non-FAQ,946,1282,1064,13-Apr-26,Maharashtra
+1306,Agra,Achhnera,Tomato,Other,Non-FAQ,959,1235,1084,13-Apr-26,Uttar Pradesh
+1307,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,911,1291,1060,14-Apr-26,Rajasthan
+1308,Pune,Pune,Tomato,Other,Non-FAQ,959,1329,1125,14-Apr-26,Maharashtra
+1309,Agra,Achhnera,Tomato,Other,Non-FAQ,981,1367,1154,14-Apr-26,Uttar Pradesh
+1310,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,899,1344,1116,15-Apr-26,Rajasthan
+1311,Pune,Pune,Tomato,Other,Non-FAQ,947,1215,1082,15-Apr-26,Maharashtra
+1312,Agra,Achhnera,Tomato,Other,Non-FAQ,924,1239,1121,15-Apr-26,Uttar Pradesh
+1313,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,876,1186,1063,16-Apr-26,Rajasthan
+1314,Pune,Pune,Tomato,Other,Non-FAQ,877,1244,1080,16-Apr-26,Maharashtra
+1315,Agra,Achhnera,Tomato,Other,Non-FAQ,868,1258,1068,16-Apr-26,Uttar Pradesh
+1316,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,946,1206,1088,17-Apr-26,Rajasthan
+1317,Pune,Pune,Tomato,Other,Non-FAQ,984,1360,1132,17-Apr-26,Maharashtra
+1318,Agra,Achhnera,Tomato,Other,Non-FAQ,927,1406,1130,17-Apr-26,Uttar Pradesh
+1319,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,862,1249,1073,18-Apr-26,Rajasthan
+1320,Pune,Pune,Tomato,Other,Non-FAQ,1030,1412,1180,18-Apr-26,Maharashtra
+1321,Agra,Achhnera,Tomato,Other,Non-FAQ,887,1196,1073,18-Apr-26,Uttar Pradesh
+1322,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,980,1225,1096,19-Apr-26,Rajasthan
+1323,Pune,Pune,Tomato,Other,Non-FAQ,1027,1307,1174,19-Apr-26,Maharashtra
+1324,Agra,Achhnera,Tomato,Other,Non-FAQ,871,1224,1082,19-Apr-26,Uttar Pradesh
+1325,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,924,1256,1132,20-Apr-26,Rajasthan
+1326,Pune,Pune,Tomato,Other,Non-FAQ,933,1249,1135,20-Apr-26,Maharashtra
+1327,Agra,Achhnera,Tomato,Other,Non-FAQ,910,1229,1047,20-Apr-26,Uttar Pradesh
+1328,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,922,1263,1107,21-Apr-26,Rajasthan
+1329,Pune,Pune,Tomato,Other,Non-FAQ,985,1233,1103,21-Apr-26,Maharashtra
+1330,Agra,Achhnera,Tomato,Other,Non-FAQ,957,1213,1094,21-Apr-26,Uttar Pradesh
+1331,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,884,1265,1086,22-Apr-26,Rajasthan
+1332,Pune,Pune,Tomato,Other,Non-FAQ,949,1333,1112,22-Apr-26,Maharashtra
+1333,Agra,Achhnera,Tomato,Other,Non-FAQ,939,1173,1055,22-Apr-26,Uttar Pradesh
+1334,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,947,1288,1111,23-Apr-26,Rajasthan
+1335,Pune,Pune,Tomato,Other,Non-FAQ,946,1304,1071,23-Apr-26,Maharashtra
+1336,Agra,Achhnera,Tomato,Other,Non-FAQ,882,1325,1065,23-Apr-26,Uttar Pradesh
+1337,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,999,1399,1188,24-Apr-26,Rajasthan
+1338,Pune,Pune,Tomato,Other,Non-FAQ,900,1164,1051,24-Apr-26,Maharashtra
+1339,Agra,Achhnera,Tomato,Other,Non-FAQ,897,1252,1074,24-Apr-26,Uttar Pradesh
+1340,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,903,1267,1097,25-Apr-26,Rajasthan
+1341,Pune,Pune,Tomato,Other,Non-FAQ,922,1247,1131,25-Apr-26,Maharashtra
+1342,Agra,Achhnera,Tomato,Other,Non-FAQ,942,1351,1148,25-Apr-26,Uttar Pradesh
+1343,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,931,1282,1043,26-Apr-26,Rajasthan
+1344,Pune,Pune,Tomato,Other,Non-FAQ,887,1323,1097,26-Apr-26,Maharashtra
+1345,Agra,Achhnera,Tomato,Other,Non-FAQ,902,1349,1084,26-Apr-26,Uttar Pradesh
+1346,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1005,1389,1143,27-Apr-26,Rajasthan
+1347,Pune,Pune,Tomato,Other,Non-FAQ,885,1222,1021,27-Apr-26,Maharashtra
+1348,Agra,Achhnera,Tomato,Other,Non-FAQ,989,1298,1103,27-Apr-26,Uttar Pradesh
+1349,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,938,1218,1076,28-Apr-26,Rajasthan
+1350,Pune,Pune,Tomato,Other,Non-FAQ,974,1349,1131,28-Apr-26,Maharashtra
+1351,Agra,Achhnera,Tomato,Other,Non-FAQ,922,1276,1127,28-Apr-26,Uttar Pradesh
+1352,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,929,1219,1097,29-Apr-26,Rajasthan
+1353,Pune,Pune,Tomato,Other,Non-FAQ,995,1346,1124,29-Apr-26,Maharashtra
+1354,Agra,Achhnera,Tomato,Other,Non-FAQ,861,1251,1065,29-Apr-26,Uttar Pradesh
+1355,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,956,1348,1092,30-Apr-26,Rajasthan
+1356,Pune,Pune,Tomato,Other,Non-FAQ,986,1338,1129,30-Apr-26,Maharashtra
+1357,Agra,Achhnera,Tomato,Other,Non-FAQ,885,1217,1072,30-Apr-26,Uttar Pradesh
+1358,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,909,1282,1123,01-May-26,Rajasthan
+1359,Pune,Pune,Tomato,Other,Non-FAQ,887,1274,1054,01-May-26,Maharashtra
+1360,Agra,Achhnera,Tomato,Other,Non-FAQ,919,1256,1113,01-May-26,Uttar Pradesh
+1361,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,932,1240,1072,02-May-26,Rajasthan
+1362,Pune,Pune,Tomato,Other,Non-FAQ,907,1278,1076,02-May-26,Maharashtra
+1363,Agra,Achhnera,Tomato,Other,Non-FAQ,943,1256,1083,02-May-26,Uttar Pradesh
+1364,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,965,1290,1146,03-May-26,Rajasthan
+1365,Pune,Pune,Tomato,Other,Non-FAQ,923,1195,1073,03-May-26,Maharashtra
+1366,Agra,Achhnera,Tomato,Other,Non-FAQ,970,1365,1138,03-May-26,Uttar Pradesh
+1367,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,967,1298,1088,04-May-26,Rajasthan
+1368,Pune,Pune,Tomato,Other,Non-FAQ,941,1289,1104,04-May-26,Maharashtra
+1369,Agra,Achhnera,Tomato,Other,Non-FAQ,909,1225,1073,04-May-26,Uttar Pradesh
+1370,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,918,1240,1112,05-May-26,Rajasthan
+1371,Pune,Pune,Tomato,Other,Non-FAQ,907,1225,1089,05-May-26,Maharashtra
+1372,Agra,Achhnera,Tomato,Other,Non-FAQ,1000,1442,1188,05-May-26,Uttar Pradesh
+1373,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,963,1293,1097,06-May-26,Rajasthan
+1374,Pune,Pune,Tomato,Other,Non-FAQ,873,1234,1091,06-May-26,Maharashtra
+1375,Agra,Achhnera,Tomato,Other,Non-FAQ,982,1367,1145,06-May-26,Uttar Pradesh
+1376,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,977,1309,1147,07-May-26,Rajasthan
+1377,Pune,Pune,Tomato,Other,Non-FAQ,900,1350,1081,07-May-26,Maharashtra
+1378,Agra,Achhnera,Tomato,Other,Non-FAQ,888,1250,1110,07-May-26,Uttar Pradesh
+1379,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,939,1230,1113,08-May-26,Rajasthan
+1380,Pune,Pune,Tomato,Other,Non-FAQ,976,1333,1141,08-May-26,Maharashtra
+1381,Agra,Achhnera,Tomato,Other,Non-FAQ,910,1326,1114,08-May-26,Uttar Pradesh
+1382,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,923,1259,1065,09-May-26,Rajasthan
+1383,Pune,Pune,Tomato,Other,Non-FAQ,892,1254,1115,09-May-26,Maharashtra
+1384,Agra,Achhnera,Tomato,Other,Non-FAQ,948,1345,1107,09-May-26,Uttar Pradesh
+1385,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,897,1249,1119,10-May-26,Rajasthan
+1386,Pune,Pune,Tomato,Other,Non-FAQ,968,1345,1093,10-May-26,Maharashtra
+1387,Agra,Achhnera,Tomato,Other,Non-FAQ,930,1330,1094,10-May-26,Uttar Pradesh
+1388,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,923,1398,1140,11-May-26,Rajasthan
+1389,Pune,Pune,Tomato,Other,Non-FAQ,957,1420,1137,11-May-26,Maharashtra
+1390,Agra,Achhnera,Tomato,Other,Non-FAQ,887,1238,1058,11-May-26,Uttar Pradesh
+1391,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,985,1337,1106,12-May-26,Rajasthan
+1392,Pune,Pune,Tomato,Other,Non-FAQ,970,1316,1112,12-May-26,Maharashtra
+1393,Agra,Achhnera,Tomato,Other,Non-FAQ,974,1443,1173,12-May-26,Uttar Pradesh
+1394,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,932,1346,1090,13-May-26,Rajasthan
+1395,Pune,Pune,Tomato,Other,Non-FAQ,965,1448,1168,13-May-26,Maharashtra
+1396,Agra,Achhnera,Tomato,Other,Non-FAQ,929,1251,1065,13-May-26,Uttar Pradesh
+1397,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,917,1261,1071,14-May-26,Rajasthan
+1398,Pune,Pune,Tomato,Other,Non-FAQ,1006,1307,1142,14-May-26,Maharashtra
+1399,Agra,Achhnera,Tomato,Other,Non-FAQ,964,1341,1126,14-May-26,Uttar Pradesh
+1400,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,987,1397,1123,15-May-26,Rajasthan
+1401,Pune,Pune,Tomato,Other,Non-FAQ,1014,1371,1129,15-May-26,Maharashtra
+1402,Agra,Achhnera,Tomato,Other,Non-FAQ,955,1225,1102,15-May-26,Uttar Pradesh
+1403,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,939,1339,1114,16-May-26,Rajasthan
+1404,Pune,Pune,Tomato,Other,Non-FAQ,944,1325,1068,16-May-26,Maharashtra
+1405,Agra,Achhnera,Tomato,Other,Non-FAQ,963,1224,1088,16-May-26,Uttar Pradesh
+1406,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,939,1349,1091,17-May-26,Rajasthan
+1407,Pune,Pune,Tomato,Other,Non-FAQ,891,1170,1062,17-May-26,Maharashtra
+1408,Agra,Achhnera,Tomato,Other,Non-FAQ,920,1324,1116,17-May-26,Uttar Pradesh
+1409,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,945,1320,1101,18-May-26,Rajasthan
+1410,Pune,Pune,Tomato,Other,Non-FAQ,921,1262,1135,18-May-26,Maharashtra
+1411,Agra,Achhnera,Tomato,Other,Non-FAQ,891,1325,1092,18-May-26,Uttar Pradesh
+1412,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,991,1300,1126,19-May-26,Rajasthan
+1413,Pune,Pune,Tomato,Other,Non-FAQ,978,1234,1110,19-May-26,Maharashtra
+1414,Agra,Achhnera,Tomato,Other,Non-FAQ,1006,1369,1123,19-May-26,Uttar Pradesh
+1415,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,916,1241,1086,20-May-26,Rajasthan
+1416,Pune,Pune,Tomato,Other,Non-FAQ,858,1182,1048,20-May-26,Maharashtra
+1417,Agra,Achhnera,Tomato,Other,Non-FAQ,1009,1261,1141,20-May-26,Uttar Pradesh
+1418,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,947,1300,1118,21-May-26,Rajasthan
+1419,Pune,Pune,Tomato,Other,Non-FAQ,884,1286,1092,21-May-26,Maharashtra
+1420,Agra,Achhnera,Tomato,Other,Non-FAQ,929,1360,1134,21-May-26,Uttar Pradesh
+1421,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1004,1233,1120,22-May-26,Rajasthan
+1422,Pune,Pune,Tomato,Other,Non-FAQ,971,1223,1091,22-May-26,Maharashtra
+1423,Agra,Achhnera,Tomato,Other,Non-FAQ,867,1321,1079,22-May-26,Uttar Pradesh
+1424,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,962,1325,1134,23-May-26,Rajasthan
+1425,Pune,Pune,Tomato,Other,Non-FAQ,897,1247,1119,23-May-26,Maharashtra
+1426,Agra,Achhnera,Tomato,Other,Non-FAQ,873,1290,1070,23-May-26,Uttar Pradesh
+1427,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,950,1224,1103,24-May-26,Rajasthan
+1428,Pune,Pune,Tomato,Other,Non-FAQ,966,1249,1122,24-May-26,Maharashtra
+1429,Agra,Achhnera,Tomato,Other,Non-FAQ,972,1238,1113,24-May-26,Uttar Pradesh
+1430,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,938,1247,1117,25-May-26,Rajasthan
+1431,Pune,Pune,Tomato,Other,Non-FAQ,898,1239,1120,25-May-26,Maharashtra
+1432,Agra,Achhnera,Tomato,Other,Non-FAQ,871,1246,1041,25-May-26,Uttar Pradesh
+1433,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,951,1408,1135,26-May-26,Rajasthan
+1434,Pune,Pune,Tomato,Other,Non-FAQ,935,1261,1146,26-May-26,Maharashtra
+1435,Agra,Achhnera,Tomato,Other,Non-FAQ,1000,1373,1146,26-May-26,Uttar Pradesh
+1436,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1024,1331,1164,27-May-26,Rajasthan
+1437,Pune,Pune,Tomato,Other,Non-FAQ,944,1351,1150,27-May-26,Maharashtra
+1438,Agra,Achhnera,Tomato,Other,Non-FAQ,973,1235,1097,27-May-26,Uttar Pradesh
+1439,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,915,1251,1123,28-May-26,Rajasthan
+1440,Pune,Pune,Tomato,Other,Non-FAQ,908,1215,1095,28-May-26,Maharashtra
+1441,Agra,Achhnera,Tomato,Other,Non-FAQ,962,1296,1089,28-May-26,Uttar Pradesh
+1442,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,975,1231,1095,29-May-26,Rajasthan
+1443,Pune,Pune,Tomato,Other,Non-FAQ,936,1249,1097,29-May-26,Maharashtra
+1444,Agra,Achhnera,Tomato,Other,Non-FAQ,929,1315,1090,29-May-26,Uttar Pradesh
+1445,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,943,1332,1084,30-May-26,Rajasthan
+1446,Pune,Pune,Tomato,Other,Non-FAQ,1016,1284,1149,30-May-26,Maharashtra
+1447,Agra,Achhnera,Tomato,Other,Non-FAQ,961,1268,1094,30-May-26,Uttar Pradesh
+1448,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1020,1327,1150,31-May-26,Rajasthan
+1449,Pune,Pune,Tomato,Other,Non-FAQ,919,1231,1109,31-May-26,Maharashtra
+1450,Agra,Achhnera,Tomato,Other,Non-FAQ,987,1346,1170,31-May-26,Uttar Pradesh
+1451,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,941,1379,1142,01-Jun-26,Rajasthan
+1452,Pune,Pune,Tomato,Other,Non-FAQ,942,1226,1078,01-Jun-26,Maharashtra
+1453,Agra,Achhnera,Tomato,Other,Non-FAQ,951,1276,1127,01-Jun-26,Uttar Pradesh
+1454,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,929,1379,1133,02-Jun-26,Rajasthan
+1455,Pune,Pune,Tomato,Other,Non-FAQ,919,1337,1141,02-Jun-26,Maharashtra
+1456,Agra,Achhnera,Tomato,Other,Non-FAQ,1011,1265,1143,02-Jun-26,Uttar Pradesh
+1457,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,924,1350,1093,03-Jun-26,Rajasthan
+1458,Pune,Pune,Tomato,Other,Non-FAQ,975,1483,1200,03-Jun-26,Maharashtra
+1459,Agra,Achhnera,Tomato,Other,Non-FAQ,916,1403,1143,03-Jun-26,Uttar Pradesh
+1460,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1028,1337,1155,04-Jun-26,Rajasthan
+1461,Pune,Pune,Tomato,Other,Non-FAQ,974,1385,1140,04-Jun-26,Maharashtra
+1462,Agra,Achhnera,Tomato,Other,Non-FAQ,945,1397,1149,04-Jun-26,Uttar Pradesh
+1463,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,986,1341,1151,05-Jun-26,Rajasthan
+1464,Pune,Pune,Tomato,Other,Non-FAQ,970,1376,1166,05-Jun-26,Maharashtra
+1465,Agra,Achhnera,Tomato,Other,Non-FAQ,956,1289,1135,05-Jun-26,Uttar Pradesh
+1466,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,983,1293,1155,06-Jun-26,Rajasthan
+1467,Pune,Pune,Tomato,Other,Non-FAQ,1028,1343,1150,06-Jun-26,Maharashtra
+1468,Agra,Achhnera,Tomato,Other,Non-FAQ,1013,1299,1167,06-Jun-26,Uttar Pradesh
+1469,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,981,1335,1163,07-Jun-26,Rajasthan
+1470,Pune,Pune,Tomato,Other,Non-FAQ,999,1403,1140,07-Jun-26,Maharashtra
+1471,Agra,Achhnera,Tomato,Other,Non-FAQ,925,1260,1118,07-Jun-26,Uttar Pradesh
+1472,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,992,1347,1107,08-Jun-26,Rajasthan
+1473,Pune,Pune,Tomato,Other,Non-FAQ,928,1292,1160,08-Jun-26,Maharashtra
+1474,Agra,Achhnera,Tomato,Other,Non-FAQ,913,1384,1113,08-Jun-26,Uttar Pradesh
+1475,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,1004,1423,1140,09-Jun-26,Rajasthan
+1476,Pune,Pune,Tomato,Other,Non-FAQ,1006,1405,1131,09-Jun-26,Maharashtra
+1477,Agra,Achhnera,Tomato,Other,Non-FAQ,965,1327,1154,09-Jun-26,Uttar Pradesh
+1478,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,936,1288,1094,10-Jun-26,Rajasthan
+1479,Pune,Pune,Tomato,Other,Non-FAQ,997,1364,1155,10-Jun-26,Maharashtra
+1480,Agra,Achhnera,Tomato,Other,Non-FAQ,976,1372,1170,10-Jun-26,Uttar Pradesh
+1481,Jaipur,Jaipur (F&V),Tomato,Other,Non-FAQ,966,1453,1182,11-Jun-26,Rajasthan
+1482,Pune,Pune,Tomato,Other,Non-FAQ,967,1355,1126,11-Jun-26,Maharashtra
+1483,Agra,Achhnera,Tomato,Other,Non-FAQ,973,1360,1113,11-Jun-26,Uttar Pradesh
